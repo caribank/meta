@@ -12,3 +12,8 @@ jobs:
         filename: 'cariban_meta.zip'
         path: 'cldf'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "cariban_meta.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
