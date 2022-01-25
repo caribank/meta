@@ -51,7 +51,7 @@ class Dataset(BaseDataset):
         )
         bool_dict = {"y": True, "n": False}
         for i, row in lgs.iterrows():
-            print(row["ID"])
+            print(f"""Processing {row["ID"]}""")
             if not pd.isnull(row["Glottocode"]):
                 l = glottolog.languoid(row["Glottocode"])
                 if not l.longitude:
