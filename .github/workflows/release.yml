@@ -13,8 +13,8 @@ jobs:
       contents: write
     steps:
     - name: Upload Release
-    - uses: actions/checkout@v2
-    - uses: ncipollo/release-action@v1
+      uses: actions/checkout@v2
+      uses: ncipollo/release-action@v1
       with:
         artifacts: "cariban_meta.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
