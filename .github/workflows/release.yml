@@ -1,5 +1,20 @@
-- name: Upload Release
-  uses: ncipollo/release-action@v1
-  with:
-    artifacts: "release.zip"
-    token: ${{ secrets.GITHUB_TOKEN }}
+name: Releases
+
+on: 
+  push:
+    tags:
+    - '*'
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Upload Release
+    - uses: actions/checkout@v2
+    - uses: ncipollo/release-action@v1
+      with:
+        artifacts: "cariban_meta.zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
