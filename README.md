@@ -1,3 +1,4 @@
 This dataset contains metadata for Cariban languages, for use in various CLDF-based projects.
 
-If you spot any mistakes or misrepresentations of reality, do let me know!
+All information is found in [this table](raw/cariban_language_list.csv); it is visualized as a [map](https://fmatter.github.io/cariban_meta/map.html).
+Feedback from more knowledgeable people is invited.
