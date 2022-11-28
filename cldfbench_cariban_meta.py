@@ -19,6 +19,10 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "cariban_meta"
 
+    def get_lg(self, lg_id):
+        lgs = pd.read_csv(self.cldf_dir/"languages.csv", keep_default_na=False)
+        return lgs[lgs["ID"] == lg_id].to_dict("records")[0]
+
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         from cldfbench import CLDFSpec
 
