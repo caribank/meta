@@ -1,85 +1,88 @@
-ID,Glottocode,Shorthand,Name,IPA,Longitude,Latitude,Sampled,Alive,Alternative_Names,Comment,Dialect_Of,ISO
-apa,apal1257,apalai,Apalaí,Aparai,-54.7457,1.49792,y,y,,,,apy
-tri,trio1238,trio,Tiriyó,Tɨrɨjo,-55.7599,2.53616,y,y,,,,tri
-hix,hixk1239,hixka,Hixkaryána,Heʃkarʲana,-58.80153,-0.16265,y,y,,,,hix
-pan,enap1235,panare,Panare,Panare,-65.8483,6.95035,y,y,E'ñapa (Woromaipu),,,pbh
-mac,macu1259,macushi,Macushi,Makuʃi,-60.2209,4.31861,y,y,,,,mbc
-wmr,waim1253,waimiri,Waimiri-Atroari,Waimiri-Atroari,-60.4259,-0.61832,y,y,yawaperi; crichana?,,,atr
-mak,maqu1238,maqui,Ye'kwana,Jeʔkwana,-64.3877,4.70705,y,y,Maquiritari,,,mch
-wai,waiw1244,waiwai,Waiwai,Waiwai,-59.1417,1.50881,y,y,,,,waw
-way,waya1269,wayana,Wayana,Wajana,-54.4429,2.77537,y,y,,,,way
-kar,gali1262,kalina,Kari'ña,Kariʔna,-56.8323,5.83772,y,y,Galibi,,,car
-ikp,ikpe1245,ikpeng,Ikpeng,Ikpeŋ,-53.49553,-11.37822,y,y,Txikão,,,txi
-uxc,nucl1656,uxc,Upper Xingu Carib,,-53.2261,-12.3035,y,y,,,,kui; mzo
-ara,para1310,arara,Arara,Arara,-53.0657,-3.71263,y,y,,,,aap
-ing,inga1250,ingariko,Ingarikó,Ingarɨko,-60.862,6.16277,n,y,,,kap,
-pem,pemo1248,pemon,Pemón,Pemon,-61.4033,4.97031,y,y,,,,aoc
-kap,kapo1251,kapon,Kapón,Kaʔpon,-60.862,6.16277,y,y,,,,ake; pbc
-kal,,kalapalo,Kalapalo,Kalapalo,,,n,y,,,uxc,kui
-kui,,kuikuro,Kuikuro,Kuhikuɣu,-53.2261,-12.3035,n,y,,,uxc,kui
-yuk,yukp1241,yukpa,Yukpa,Jukpa,-73.0557,9.67534,y,y,,,,yup
-car,cari1279,carijo,Karijona,Karihona,-72.0664,1.21894,y,y,,,,cbd
-bak,baka1277,bakairi,Bakairi,Bakajri,-54.7034,-14.2628,y,y,,,,bkq
-tam,tama1338,tamanaku,Tamanaku,Tamanaku,-65.883,2.765,n,n,,,,tmz
-kax,kaxu1237,kaxui,Werikyana,Werikjana,-55.9101,2.17138,y,y,Katxuyana,,,kbb
-aku,akur1238,akuriyo,Akuriyó,Akurijo,-55.6294,3.19607,y,y,Wama,,,ako
-jap,japr1238,japreria,Japreria,Japreria,-72.7101,10.5523,n,y,,,,jru
-cum,coas1302,kumana,Kumaná,Kumana,-63.018,10.209,n,n,,,,
-palm,palm1241,palmela,Palmela,,-62.8,-13,n,n,,,,
-pime,pime1237,piment,Pimenteira,,-42.5,-10,n,n,,,,
-arak,,arakaju,Arakaju,,-52,-4,n,n,,,,
-pxan,paux1236,pauxiana,Pauxiana,,-62.52,1.45,n,n,,,,
-para,para1309,paravi,Paravilhana,,-60.48,3.12,n,n,,,,
-bona,bona1255,bonari,Bonari,,-58,-2,n,n,,,,
-wayu,wayu1242,wayu,Wayumara,,-61.21079,3.133111,n,n,,,,
-apia,apia1247,apiaka,Apiaka-Tocantins,,-49.77173,-6.5,n,n,,,,
-opon,opon1234,opon,Opón-Carare,,-73.62266,6.6993472,n,n,,,,
-paux,paux1235,pauxi,Pauxi,,-55.55878,-1.690001,n,n,,,,
-sapa,sapa1254,sapara,Sapara,,-61.58054,3.433437,n,n,,,,
-tive,tive1236,tiveri,Tiverighotto,,-62.51541,10.102185,n,n,,,,
-yao,yaoa1239,yao,Yao,,-61.43483,10.171563,n,n,Yebarana,,,
-yaru,yaru1255,yaruma,Yarumá,,-52.8,-11.6333,n,n,,,,
-koya,,koyaima,Koyaima,,-76,9,n,n,,"Spelling Koyama likely from gildea1998, originally Koyaima",,
-hian,,hiana,Hianakoto-Umawa,,-72.0664,1.21894,n,n,,,car,
-salu,salu1254,saluma,Salumá,,-56.51,1.75,n,n,,,tri,
-siku,siki1239,sikiana,Sikiana,Sikɨjana,-57.92,3.01,n,y,Shikuyana; Sikiana,,kax,
-puru,,purukoto,Purukoto,,-61.69889,3.4489861,n,n,,,,
-juma,,juma,Juma,,-61,-5,n,n,,western madeira -- no data -- girard:2,,
-pale,,palenque,Palenque,,-65.49599,8.8387087,n,n,,girard:6,,
-paru,,parukoto,Parukoto,,-56.69205,1.2913186,n,n,,girard:6,wai,
-uruk,,urukue,Urukuena,,-54.35032,2.7984202,n,n,,girard:6,tri,
-waya,,wayakule,Wayakulé,,-53.40764,3.2176412,n,n,,"girard:6, triometesem",tri,
-piri,,piritu,Píritu,,-66.02333,9.9467688,n,n,,girard:6,,
-guak,,guake,Guake,,-72.08,1,n,n,,location from wals,,
-mcta,,macoita,Macoita,,-73.0557,9.67534,n,n,,yukpa dialects,yuk,
-maco,,macoa,Macoa,,-73.0557,9.67534,n,n,,yukpa dialects,yuk,
-chak,,chake,Chake,,-73.0557,9.67534,n,n,,yukpa dialects,yuk,
-chai,chai1253,chayma,Chayma,,-63.1,9.21256,n,n,,,cum,
-avar,,avarikoto,Avarikoto,,-63.1,9.21,n,n,,girard,,
-tau,taul1252,tauli,Taulipang,Taurepan,,,n,y,,,pem,
-pat,pata1262,patamona,Patamona,Patamona,-59.58,4.76,n,y,,,kap,
-are,arec1238,arekuna,Arekuna,Arekuna,,,n,y,,,pem,
-kam,cama1252,kamara,Kamarakoto,Kamarakoto,-62.71231,5.6014065,n,y,,,pem,
-aka,akaw1239,akawaio,Akawaio,Akawajo,-60.86,6.16,n,y,,,kap,
-cgt,cuma1240,kumanagoto,Kumanagoto,,-63.02,10.21,n,n,,,cum,
-cric,,crichana,Crichana,,-60.4259,-0.61832,n,n,,,,
-map,mapo1246,mapoyo,Mapoyo,Mapojo,-67.2581,5.96952,y,y,,,,mcg
-yab,yaba1248,yawarana,Yawarana,Jawarana,-66.276,5.32692,y,y,,,,yar
-jawa,jawa1240,yawaperi,Jawaperi,Jawaperi,-60.4259,-0.61832,n,n,,,wmr,
-pno,pemo1245,pemono,Pémono,Pemono,-66.082,5.248,n,n,,,,
-pian,,pianakoto,Pianakoto,,,,n,n,,,tri,
-PC,cari1283,PC,Proto-Cariban,,,,y,n,,,,
-arin,,arina,Arinakoto,,,,n,n,,"only in durbin, part of the pemon continuum",pem,
-kuma,,kumayena,Kumayena,,,,n,n,,,tri,
-tyr,tyre1237,tyrewuju,Tyrewuju,Tɨrewuju,,,n,y,,,kar,
-dek,,dekwana,De’kwana,Deʔkwana,,,n,y,,,mak,
-dhe,,dhekwana,Dhe’kwana,Ðeʔkwana,,,n,y,,,mak,
-PPar,paru1239,PPar,Proto-Parukotoan,,,,n,n,,,,
-PWai,waiw1245,PWai,Proto-Waiwaian,,,,n,n,,,,
-PPek,peko1235,PPek,Proto-Pekodian,,,,n,n,,,,
-PXin,xing1247,PXin,Proto-Xinguan,,,,n,n,,,,
-PPP,pemo1246,PPP,Proto-Pemong-Panare,,,,n,n,,,,
-PPem,pemo1247,PPem,Proto-Pemongan,,,,n,n,,,,
-PTar,tara1324,PTar,Proto-Taranoan,,,,n,n,,,,
-PTir,tiri1260,PTir,Proto-Tiriyoan,,,,n,n,,,,
-PMan,mapo1245,PMan,Proto-Manapiarean,,,,n,n,,,,
+ID,Glottocode,Shorthand,Name,IPA,Longitude,Latitude,Alive,Alternative_Names,Comment,Dialect_Of,ISO
+hian,,hiana,Hianakoto-Umawa,,-72.0664,1.21894,n,,,car,
+chai,chai1253,chayma,Chayma,,-63.1,9.21256,n,,,cum,
+cgt,cuma1240,kumanagoto,Kumanagoto,,-63.02,10.21,n,,,cum,
+ing,inga1250,ingariko,Ingarikó,Ingarɨko,-60.862,6.16277,y,,,kap,
+pat,pata1262,patamona,Patamona,Patamona,-59.58,4.76,y,,,kap,
+aka,akaw1239,akawaio,Akawaio,Akawajo,-60.86,6.16,y,,,kap,
+tyr,tyre1237,tyrewuju,Tyrewuju,Tɨrewuju,,,y,Eastern Surinamese Carib,,kar,
+mur,mura1272,murato,Murato,,,,y,Western Surinamese Carib,,kar,
+tab,taba1267,tab,Tabajari,,,,y,Venezuelan Carib,,kar,
+siku,siki1239,sikiana,Sikiana,Sikɨjana,-57.92,3.01,y,Shikuyana; Sikiana,,kax,
+dek,,dekwana,De’kwana,Deʔkwana,,,y,,,mak,
+dhe,,dhekwana,Dhe’kwana,Ðeʔkwana,,,y,,,mak,
+tau,taul1252,tauli,Taulipang,Taurepan,,,y,,,pem,
+are,arec1238,arekuna,Arekuna,Arekuna,,,y,,,pem,
+kam,cama1252,kamara,Kamarakoto,Kamarakoto,-62.71231,5.6014065,y,,,pem,
+arin,,arina,Arinakoto,,,,n,,"only in durbin, part of the pemon continuum",pem,
+salu,salu1254,saluma,Salumá,,-56.51,1.75,n,,,tri,
+uruk,,urukue,Urukuena,,-54.35032,2.7984202,n,,girard:6,tri,
+waya,,wayakule,Wayakulé,,-53.40764,3.2176412,n,,"girard:6, triometesem",tri,
+pian,,pianakoto,Pianakoto,,,,n,,,tri,
+kuma,,kumayena,Kumayena,,,,n,,,tri,
+kal,,kalapalo,Kalapalo,Kalapalo,,,y,,,uxc,kui
+kui,,kuikuro,Kuikuro,Kuhikuɣu,-53.2261,-12.3035,y,,,uxc,kui
+paru,,parukoto,Parukoto,,-56.69205,1.2913186,n,,girard:6,wai,
+jawa,jawa1240,yawaperi,Jawaperi,Jawaperi,-60.4259,-0.61832,n,,,wmr,
+mcta,,macoita,Macoita,,-73.0557,9.67534,n,,yukpa dialects,yuk,
+maco,,macoa,Macoa,,-73.0557,9.67534,n,,yukpa dialects,yuk,
+chak,,chake,Chake,,-73.0557,9.67534,n,,yukpa dialects,yuk,
+apa,apal1257,apalai,Apalaí,Aparai,-54.7457,1.49792,y,,,,apy
+tri,trio1238,trio,Tiriyó,Tɨrɨjo,-55.7599,2.53616,y,,,,tri
+hix,hixk1239,hixka,Hixkaryána,Heʃkarʲana,-58.80153,-0.16265,y,,,,hix
+pan,enap1235,panare,Panare,Panare,-65.8483,6.95035,y,E'ñapa (Woromaipu),,,pbh
+mac,macu1259,macushi,Macushi,Makuʃi,-60.2209,4.31861,y,,,,mbc
+wmr,waim1253,waimiri,Waimiri-Atroari,Waimiri-Atroari,-60.4259,-0.61832,y,yawaperi; crichana?,,,atr
+mak,maqu1238,maqui,Ye'kwana,Jeʔkwana,-64.3877,4.70705,y,Maquiritari,,,mch
+wai,waiw1244,waiwai,Waiwai,Waiwai,-59.1417,1.50881,y,,,,waw
+way,waya1269,wayana,Wayana,Wajana,-54.4429,2.77537,y,,,,way
+kar,gali1262,kalina,Kari'ña,Kariʔna,-56.8323,5.83772,y,Galibi,,,car
+ikp,ikpe1245,ikpeng,Ikpeng,Ikpeŋ,-53.49553,-11.37822,y,Txikão,,,txi
+uxc,nucl1656,uxc,Upper Xingu Carib,,-53.2261,-12.3035,y,,,,kui; mzo
+ara,para1310,arara,Arara,Arara,-53.0657,-3.71263,y,,,,aap
+pem,pemo1248,pemon,Pemón,Pemon,-61.4033,4.97031,y,,,,aoc
+kap,kapo1251,kapon,Kapón,Kaʔpon,-60.862,6.16277,y,,,,ake; pbc
+yuk,yukp1241,yukpa,Yukpa,Jukpa,-73.0557,9.67534,y,,,,yup
+car,cari1279,carijo,Karijona,Karihona,-72.0664,1.21894,y,,,,cbd
+bak,baka1277,bakairi,Bakairi,Bakajri,-54.7034,-14.2628,y,,,,bkq
+tam,tama1338,tamanaku,Tamanaku,Tamanaku,-65.883,2.765,n,,,,tmz
+kax,kaxu1237,kaxui,Werikyana,Werikjana,-55.9101,2.17138,y,Katxuyana,,,kbb
+aku,akur1238,akuriyo,Akuriyó,Akurijo,-55.6294,3.19607,y,Wama,,,ako
+jap,japr1238,japreria,Japreria,Japreria,-72.7101,10.5523,y,,,,jru
+cum,coas1302,kumana,Kumaná,Kumana,-63.018,10.209,n,,,,
+palm,palm1241,palmela,Palmela,,-62.8,-13,n,,,,
+pime,pime1237,piment,Pimenteira,,-42.5,-10,n,,,,
+arak,,arakaju,Arakaju,,-52,-4,n,,,,
+pxan,paux1236,pauxiana,Pauxiana,,-62.52,1.45,n,,,,
+para,para1309,paravi,Paravilhana,,-60.48,3.12,n,,,,
+bona,bona1255,bonari,Bonari,,-58,-2,n,,,,
+wayu,wayu1242,wayu,Wayumara,,-61.21079,3.133111,n,,,,
+apia,apia1247,apiaka,Apiaka-Tocantins,,-49.77173,-6.5,n,,,,
+opon,opon1234,opon,Opón-Carare,,-73.62266,6.6993472,n,,,,
+paux,paux1235,pauxi,Pauxi,,-55.55878,-1.690001,n,,,,
+sapa,sapa1254,sapara,Sapara,,-61.58054,3.433437,n,,,,
+tive,tive1236,tiveri,Tiverighotto,,-62.51541,10.102185,n,,,,
+yao,yaoa1239,yao,Yao,,-61.43483,10.171563,n,Yebarana,,,
+yaru,yaru1255,yaruma,Yarumá,,-52.8,-11.6333,n,,,,
+koya,,koyaima,Koyaima,,-76,9,n,,"Spelling Koyama likely from gildea1998, originally Koyaima",,
+puru,,purukoto,Purukoto,,-61.69889,3.4489861,n,,,,
+juma,,juma,Juma,,-61,-5,n,,western madeira -- no data -- girard:2,,
+pale,,palenque,Palenque,,-65.49599,8.8387087,n,,girard:6,,
+piri,,piritu,Píritu,,-66.02333,9.9467688,n,,girard:6,,
+guak,,guake,Guake,,-72.08,1,n,,location from wals,,
+avar,,avarikoto,Avarikoto,,-63.1,9.21,n,,girard,,
+cric,,crichana,Crichana,,-60.4259,-0.61832,n,,,,
+map,mapo1246,mapoyo,Mapoyo,Mapojo,-67.2581,5.96952,y,,,,mcg
+yab,yaba1248,yawarana,Yawarana,Jawarana,-66.276,5.32692,y,,,,yar
+pno,pemo1245,pemono,Pémono,Pemono,-66.082,5.248,n,,,,
+PC,cari1283,PC,Proto-Cariban,,,,n,,,,
+PPar,paru1239,PPar,Proto-Parukotoan,,,,n,,,,
+PWai,waiw1245,PWai,Proto-Waiwaian,,,,n,,,,
+PPek,peko1235,PPek,Proto-Pekodian,,,,n,,,,
+PXin,xing1247,PXin,Proto-Xinguan,,,,n,,,,
+PPP,pemo1246,PPP,Proto-Pemong-Panare,,,,n,,,,
+PPem,pemo1247,PPem,Proto-Pemongan,,,,n,,,,
+PTar,tara1324,PTar,Proto-Taranoan,,,,n,,,,
+PTir,tiri1260,PTir,Proto-Tiriyoan,,,,n,,,,
+PMan,mapo1245,PMan,Proto-Manapiarean,,,,n,,,,
+gkar,,gkar,Guianese Carib,,,,y,,,kar,

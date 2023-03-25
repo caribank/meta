@@ -7,7 +7,7 @@ df = df[df["Latitude"] != ""]
 df = gpd.GeoDataFrame(
     df, geometry=gpd.points_from_xy(df.Longitude, df.Latitude)
 )  # convert to a geodataframe
-df.drop(columns=["Sampled"], inplace=True)
+# df.drop(columns=["Sampled"], inplace=True)
 df["Alive"] = df["Alive"].replace({"y": "yes", "n": "no"})
 
 df = df.set_crs("epsg:4326")

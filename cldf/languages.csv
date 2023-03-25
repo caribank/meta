@@ -1,4 +1,32 @@
 ID,Name,Latitude,Longitude,Glottocode,IPA,Alternative_Names,Shorthand,Dialect_Of,Alive,Proto_Language
+hian,Hianakoto-Umawa,1.21894,-72.0664,,,,hiana,car,false,false
+chai,Chayma,9.21256,-63.1034,chai1253,,,chayma,cum,false,false
+cgt,Kumanagoto,10.209,-63.018,cuma1240,,,kumanagoto,cum,false,false
+ing,Ingarikó,6.16277,-60.862,inga1250,Ingarɨko,,ingariko,kap,true,false
+pat,Patamona,4.75826,-59.5772,pata1262,Patamona,,patamona,kap,true,false
+aka,Akawaio,6.16277,-60.862,akaw1239,Akawajo,,akawaio,kap,true,false
+tyr,Tyrewuju,,,tyre1237,Tɨrewuju,Eastern Surinamese Carib,tyrewuju,kar,true,false
+mur,Murato,,,mura1272,,Western Surinamese Carib,murato,kar,true,false
+tab,Tabajari,,,taba1267,,Venezuelan Carib,tab,kar,true,false
+siku,Sikiana,3.01294,-57.9221,siki1239,Sikɨjana,Shikuyana; Sikiana,sikiana,kax,true,false
+dek,De’kwana,,,,Deʔkwana,,dekwana,mak,true,false
+dhe,Dhe’kwana,,,,Ðeʔkwana,,dhekwana,mak,true,false
+tau,Taulipang,,,taul1252,Taurepan,,tauli,pem,true,false
+are,Arekuna,,,arec1238,Arekuna,,arekuna,pem,true,false
+kam,Kamarakoto,5.6014065,-62.71231,cama1252,Kamarakoto,,kamara,pem,true,false
+arin,Arinakoto,,,,,,arina,pem,false,false
+salu,Salumá,1.74782,-56.5107,salu1254,,,saluma,tri,false,false
+uruk,Urukuena,2.7984202,-54.35032,,,,urukue,tri,false,false
+waya,Wayakulé,3.2176412,-53.40764,,,,wayakule,tri,false,false
+pian,Pianakoto,,,,,,pianakoto,tri,false,false
+kuma,Kumayena,,,,,,kumayena,tri,false,false
+kal,Kalapalo,,,,Kalapalo,,kalapalo,uxc,true,false
+kui,Kuikuro,-12.3035,-53.2261,,Kuhikuɣu,,kuikuro,uxc,true,false
+paru,Parukoto,1.2913186,-56.69205,,,,parukoto,wai,false,false
+jawa,Jawaperi,-0.61832,-60.4259,jawa1240,Jawaperi,,yawaperi,wmr,false,false
+mcta,Macoita,9.67534,-73.0557,,,,macoita,yuk,false,false
+maco,Macoa,9.67534,-73.0557,,,,macoa,yuk,false,false
+chak,Chake,9.67534,-73.0557,,,,chake,yuk,false,false
 apa,Apalaí,1.49792,-54.7457,apal1257,Aparai,,apalai,,true,false
 tri,Tiriyó,2.53616,-55.7599,trio1238,Tɨrɨjo,,trio,,true,false
 hix,Hixkaryána,-0.16265,-58.80153,hixk1239,Heʃkarʲana,,hixka,,true,false
@@ -12,11 +40,8 @@ kar,Kari'ña,5.83772,-56.8323,gali1262,Kariʔna,Galibi,kalina,,true,false
 ikp,Ikpeng,-11.37822,-53.49553,ikpe1245,Ikpeŋ,Txikão,ikpeng,,true,false
 uxc,Upper Xingu Carib,-12.3035,-53.2261,nucl1656,,,uxc,,true,false
 ara,Arara,-3.71263,-53.0657,para1310,Arara,,arara,,true,false
-ing,Ingarikó,6.16277,-60.862,inga1250,Ingarɨko,,ingariko,kap,true,false
 pem,Pemón,4.97031,-61.4033,pemo1248,Pemon,,pemon,,true,false
 kap,Kapón,6.16277,-60.862,kapo1251,Kaʔpon,,kapon,,true,false
-kal,Kalapalo,,,,Kalapalo,,kalapalo,uxc,true,false
-kui,Kuikuro,-12.3035,-53.2261,,Kuhikuɣu,,kuikuro,uxc,true,false
 yuk,Yukpa,9.67534,-73.0557,yukp1241,Jukpa,,yukpa,,true,false
 car,Karijona,1.21894,-72.0664,cari1279,Karihona,,carijo,,true,false
 bak,Bakairi,-14.2628,-54.7034,baka1277,Bakajri,,bakairi,,true,false
@@ -40,40 +65,17 @@ tive,Tiverighotto,10.102185,-62.515411,tive1236,,,tiveri,,false,false
 yao,Yao,10.125673,-61.810199,yaoa1239,,Yebarana,yao,,false,false
 yaru,Yarumá,-11.6333,-52.8,yaru1255,,,yaruma,,false,false
 koya,Koyaima,9.0,-76.0,,,,koyaima,,false,false
-hian,Hianakoto-Umawa,1.21894,-72.0664,,,,hiana,car,false,false
-salu,Salumá,1.74782,-56.5107,salu1254,,,saluma,tri,false,false
-siku,Sikiana,3.01294,-57.9221,siki1239,Sikɨjana,Shikuyana; Sikiana,sikiana,kax,true,false
 puru,Purukoto,3.4489861,-61.69889,,,,purukoto,,false,false
 juma,Juma,-5.0,-61.0,,,,juma,,false,false
 pale,Palenque,8.8387087,-65.49599,,,,palenque,,false,false
-paru,Parukoto,1.2913186,-56.69205,,,,parukoto,wai,false,false
-uruk,Urukuena,2.7984202,-54.35032,,,,urukue,tri,false,false
-waya,Wayakulé,3.2176412,-53.40764,,,,wayakule,tri,false,false
 piri,Píritu,9.9467688,-66.02333,,,,piritu,,false,false
 guak,Guake,1.0,-72.08,,,,guake,,false,false
-mcta,Macoita,9.67534,-73.0557,,,,macoita,yuk,false,false
-maco,Macoa,9.67534,-73.0557,,,,macoa,yuk,false,false
-chak,Chake,9.67534,-73.0557,,,,chake,yuk,false,false
-chai,Chayma,9.21256,-63.1034,chai1253,,,chayma,cum,false,false
 avar,Avarikoto,9.21,-63.1,,,,avarikoto,,false,false
-tau,Taulipang,,,taul1252,Taurepan,,tauli,pem,true,false
-pat,Patamona,4.75826,-59.5772,pata1262,Patamona,,patamona,kap,true,false
-are,Arekuna,,,arec1238,Arekuna,,arekuna,pem,true,false
-kam,Kamarakoto,5.6014065,-62.71231,cama1252,Kamarakoto,,kamara,pem,true,false
-aka,Akawaio,6.16277,-60.862,akaw1239,Akawajo,,akawaio,kap,true,false
-cgt,Kumanagoto,10.209,-63.018,cuma1240,,,kumanagoto,cum,false,false
 cric,Crichana,-0.61832,-60.4259,,,,crichana,,false,false
 map,Mapoyo,5.96952,-67.2581,mapo1246,Mapojo,,mapoyo,,true,false
 yab,Yawarana,5.32692,-66.276,yaba1248,Jawarana,,yawarana,,true,false
-jawa,Jawaperi,-0.61832,-60.4259,jawa1240,Jawaperi,,yawaperi,wmr,false,false
 pno,Pémono,5.248,-66.082,pemo1245,Pemono,,pemono,,false,false
-pian,Pianakoto,,,,,,pianakoto,tri,false,false
 PC,Proto-Cariban,,,cari1283,,,PC,,false,true
-arin,Arinakoto,,,,,,arina,pem,false,false
-kuma,Kumayena,,,,,,kumayena,tri,false,false
-tyr,Tyrewuju,,,tyre1237,Tɨrewuju,,tyrewuju,kar,true,false
-dek,De’kwana,,,,Deʔkwana,,dekwana,mak,true,false
-dhe,Dhe’kwana,,,,Ðeʔkwana,,dhekwana,mak,true,false
 PPar,Proto-Parukotoan,,,paru1239,,,PPar,,false,true
 PWai,Proto-Waiwaian,,,waiw1245,,,PWai,,false,true
 PPek,Proto-Pekodian,,,peko1235,,,PPek,,false,true
@@ -83,3 +85,4 @@ PPem,Proto-Pemongan,,,pemo1247,,,PPem,,false,true
 PTar,Proto-Taranoan,,,tara1324,,,PTar,,false,true
 PTir,Proto-Tiriyoan,,,tiri1260,,,PTir,,false,true
 PMan,Proto-Manapiarean,,,mapo1245,,,PMan,,false,true
+gkar,Guianese Carib,,,,,,gkar,kar,true,false
