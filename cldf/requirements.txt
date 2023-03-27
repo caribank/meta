@@ -4,6 +4,7 @@ Babel==2.10.3
 bs4==0.0.1
 certifi==2022.9.24
 cldfbench==1.13.0
+-e git+ssh://git@github.com/fmatter/cariban_meta.git@cb6d8dc676ef708abf386c0ee99190593c05d9cc#egg=cldfbench_cariban_meta
 cldfcatalog==1.5.1
 cldfviz==0.10.0
 cldfzenodo==0.3.0

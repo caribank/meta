@@ -7,7 +7,7 @@ pat,Patamona,4.75826,-59.5772,pata1262,Patamona,,patamona,kap,true,false
 aka,Akawaio,6.16277,-60.862,akaw1239,Akawajo,,akawaio,kap,true,false
 tyr,Tyrewuju,,,tyre1237,Tɨrewuju,Eastern Surinamese Carib,tyrewuju,kar,true,false
 mur,Murato,,,mura1272,,Western Surinamese Carib,murato,kar,true,false
-tab,Tabajari,,,taba1267,,Venezuelan Carib,tab,kar,true,false
+tab,Tabajari,,,taba1267,,Venezuelan Carib,tabajari,kar,true,false
 gkar,Guianese Carib,,,,,,gkar,kar,true,false
 siku,Sikiana,3.01294,-57.9221,siki1239,Sikɨjana,Shikuyana; Sikiana,sikiana,kax,true,false
 dek,De’kwana,,,,Deʔkwana,,dekwana,mak,true,false
@@ -86,5 +86,5 @@ PPem,Proto-Pemongan,,,pemo1247,,,PPem,,false,true
 PTar,Proto-Taranoan,,,tara1324,,,PTar,,false,true
 PTir,Proto-Tiriyoan,,,tiri1260,,,PTir,,false,true
 PMan,Proto-Manapiarean,,,mapo1245,,,PMan,,false,true
-ebak,Eastern Bakairi,,,,,,nan,,true,false
-wbak,Western Bakairi,,,,,,nan,,true,false
+ebak,Eastern Bakairi,,,,,,ebakairi,,true,false
+wbak,Western Bakairi,,,,,,wbakairi,,true,false
