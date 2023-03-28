@@ -11,3 +11,6 @@ valid:
 
 map:
 	python3 map.py
+
+bib:
+	biblatex2bibtex /home/florianm/Dropbox/research/cariban/cariban_references.bib --output etc/sources.bib

@@ -7,13 +7,14 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "Names and locations for Cariban languages",
     "dcat:accessURL": "git@github.com:fmatter/cariban_meta",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-11-gcb6d8dc",
+            "dc:created": "v0.0.5-12-g4127194",
             "dc:title": "Repository"
         },
         {

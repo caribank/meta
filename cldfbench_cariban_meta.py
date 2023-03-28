@@ -1,6 +1,9 @@
 import pathlib
 import pandas as pd
 from cldfbench import Dataset as BaseDataset
+import pybtex
+from pycldf.sources import Source
+
 
 import logging
 import colorlog
@@ -145,6 +148,11 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_foreign_key(
             "DialectTable", "Dialect_ID", "LanguageTable", "ID"
         )
+        sources = pybtex.database.parse_file("etc/sources.bib", bib_format="bibtex")
+        sources = [Source.from_entry(k, e) for k, e in sources.entries.items()]
+        args.writer.cldf.add_sources(*sources)
+
+
         lgs = pd.read_csv(
             "raw/cariban_language_list.csv",
             dtype={"Latitude": "float", "Longitude": "float"},
