@@ -217,7 +217,7 @@ class Dataset(BaseDataset):
                 }
             )
 
-            for opt_col in ["Dialect_Of", "Latitude", "Longitude", "Glottocode", "IPA"]:
+            for opt_col in ["Dialect_Of", "Latitude", "Longitude", "Glottocode"]:
                 if not pd.isnull(row[opt_col]):
                     lg_dic[opt_col] = row[opt_col]
 
