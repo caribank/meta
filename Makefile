@@ -12,5 +12,11 @@ valid:
 map:
 	python3 map.py
 
-bib:
-	biblatex2bibtex /home/florianm/Dropbox/research/cariban/cariban_references.bib --output etc/sources.bib
+bib: bibload bibrun
+
+bibload:
+	biblatex2bibtex /home/florianm/Dropbox/research/cariban/cariban_references.bib --output bib/sources.bib
+
+bibrun:
+	pandoc --pdf-engine=xelatex -o bib/bibliography.pdf bib/bibliography.md --bibliography bib/sources.bib --citeproc
+	pandoc -o bib/README.md bib/bibliography.md --bibliography bib/sources.bib --citeproc -t markdown-citations
