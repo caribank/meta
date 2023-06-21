@@ -1,12 +1,11 @@
 # A bibliography on Cariban languages
 
--   this is a collection of literature references and other sources for
-    Cariban languages, compiled by Florian Matter
--   obligatory references to (Fabre 2005) and (Hammarström et al. 2020)
--   spotted an error? know of a missing source? [tell us
+-   compiled by Florian Matter
+-   obligatory references to Fabre (2005) and Hammarström et al. (2020)
+-   spotted an error? know a missing source? [tell me
     more](https://github.com/karipona/meta/issues/new)
 
-## Sources {#sources .unnumbered}
+## Sources 
 
  
 
