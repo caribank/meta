@@ -1,4 +1,4 @@
-all: bench readme valid map
+all: bib bench readme valid map
 	
 bench:
 	cldfbench makecldf cldfbench_cariban_meta.py 

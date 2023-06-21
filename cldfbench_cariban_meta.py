@@ -148,7 +148,7 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_foreign_key(
             "DialectTable", "Dialect_ID", "LanguageTable", "ID"
         )
-        sources = pybtex.database.parse_file("etc/sources.bib", bib_format="bibtex")
+        sources = pybtex.database.parse_file("bib/sources.bib", bib_format="bibtex")
         sources = [Source.from_entry(k, e) for k, e in sources.entries.items()]
         args.writer.cldf.add_sources(*sources)
 

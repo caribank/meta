@@ -808,8 +808,7 @@ Makiritare." *Antropológica* 7: 61--70.
 
 Fabre, Alain. 2005. "Caribe." In *Diccionario Etnolingüístico y Guía
 Bibliográfica de Los Pueblos Indígenas Sudamericanos*.
-[http://ling.fi/Entradas
-diccionario/Dic=Caribe.pdf](http://ling.fi/Entradas diccionario/Dic=Caribe.pdf).
+[http://ling.fi/Entradas\\%20diccionario/Dic=Caribe.pdf](http://ling.fi/Entradas\%20diccionario/Dic=Caribe.pdf).
 
 
 
