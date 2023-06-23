@@ -23,7 +23,7 @@ class Dataset(BaseDataset):
     id = "cariban_meta"
 
     def get_lg(self, lg_id):
-        lgs = pd.read_csv(self.cldf_dir/"languages.csv", keep_default_na=False)
+        lgs = pd.read_csv(self.cldf_dir / "languages.csv", keep_default_na=False)
         return lgs[lgs["ID"] == lg_id].to_dict("records")[0]
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
@@ -152,7 +152,6 @@ class Dataset(BaseDataset):
         sources = [Source.from_entry(k, e) for k, e in sources.entries.items()]
         args.writer.cldf.add_sources(*sources)
 
-
         lgs = pd.read_csv(
             "raw/cariban_language_list.csv",
             dtype={"Latitude": "float", "Longitude": "float"},
@@ -176,11 +175,14 @@ class Dataset(BaseDataset):
                 ):
                     log.debug(f"Matching coords for {lg}")
                     pass
+            alive = bool_dict[row["Alive"]]
+            if not alive:
+                row["Name"] = "†" + row["Name"]
             lg_dic = {
                 "ID": row["ID"],
                 "Name": row["Name"],
                 "Shorthand": row["Shorthand"],
-                "Alive": bool_dict[row["Alive"]],
+                "Alive": alive,
                 "Comment": row["Comment"],
                 "Proto_Language": (row["ID"][0] == "P"),
             }
