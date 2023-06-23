@@ -2087,12 +2087,17 @@ Glossed Texts and Corresponding Morpheme Lexicon."
 
 
 
----------. 2022ac. "Ye'kwana Shoebox Database with Parsed and Glossed
+---------. 2022ac. "Yawarana Shoebox Database with Parsed and Glossed
 Texts and Corresponding Morpheme Lexicon."
 
 
 
----------. 2022ad. "Yukpa Shoebox Database with Parsed and Glossed Texts
+---------. 2022ad. "Ye'kwana Shoebox Database with Parsed and Glossed
+Texts and Corresponding Morpheme Lexicon."
+
+
+
+---------. 2022ae. "Yukpa Shoebox Database with Parsed and Glossed Texts
 and Corresponding Morpheme Lexicon."
 
 
