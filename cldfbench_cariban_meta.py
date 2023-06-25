@@ -1,6 +1,7 @@
 import pathlib
 import pandas as pd
 from cldfbench import Dataset as BaseDataset
+from writio import load, dump
 import pybtex
 from pycldf.sources import Source
 
@@ -139,6 +140,27 @@ class Dataset(BaseDataset):
                 },
             }
         )
+        # args.writer.cldf.add_component("TreeTable")
+        # args.writer.cldf.add_component("MediaTable")
+        # args.writer.objects['MediaTable'].append(dict(
+        #         ID="fm-tree",
+        #         Media_Type='text/plain',
+        #         Download_URL="file:///matter.nwk",
+        #         Path_In_Zip=None
+        #     ))
+
+        # args.writer.objects['TreeTable'].append(dict(
+        #     ID="fm-tree",
+        #     Name="fm-tree",
+        #     Media_ID="fm-tree",
+        #     Tree_Is_Rooted=True,
+        #     # Tree_Type=type_,
+        #     Description="A relatively conservative tree based on shared innovations.",
+        #     Tree_Branch_Length_Unit=None,
+        #     Source=None,
+        # ))
+
+        # dump(load("raw/cari1283.nwk"), self.cldf_specs().dir / "matter.nwk")
         args.writer.cldf.add_foreign_key(
             "LanguageTable", "Dialect_Of", "LanguageTable", "ID"
         )
@@ -160,23 +182,23 @@ class Dataset(BaseDataset):
         for i, row in lgs.iterrows():
             lg_id = row["ID"]
             log.debug(f"""Processing {lg_id}""")
-            if not pd.isnull(row["Glottocode"]):
-                lg = glottolog.languoid(row["Glottocode"])
-                if not lg.longitude:
-                    log.debug(f"No glottocoords for {lg}, using own")
-                elif row["Latitude"] != lg.latitude or row["Longitude"] != lg.longitude:
-                    log.warning(f"Coordinate mismatch for {lg}, using glottocode")
-                    print(row["Latitude"], lg.latitude)
-                    print(row["Longitude"], lg.longitude)
-                    row["Latitude"] = lg.latitude
-                    row["Longitude"] = lg.longitude
-                elif (
-                    row["Latitude"] == lg.latitude and row["Longitude"] == lg.longitude
-                ):
-                    log.debug(f"Matching coords for {lg}")
-                    pass
+            # if not pd.isnull(row["Glottocode"]):
+            #     lg = glottolog.languoid(row["Glottocode"])
+            #     if not lg.longitude:
+            #         log.debug(f"No glottocoords for {lg}, using own")
+            #     elif row["Latitude"] != lg.latitude or row["Longitude"] != lg.longitude:
+            #         log.warning(f"Coordinate mismatch for {lg}, using glottocoords")
+            #         print(row["Latitude"], lg.latitude)
+            #         print(row["Longitude"], lg.longitude)
+            #         row["Latitude"] = lg.latitude
+            #         row["Longitude"] = lg.longitude
+            #     elif (
+            #         row["Latitude"] == lg.latitude and row["Longitude"] == lg.longitude
+            #     ):
+            #         log.debug(f"Matching coords for {lg}")
+            #         pass
             alive = bool_dict[row["Alive"]]
-            if not alive:
+            if not alive and not row["Name"].startswith("Proto"):
                 row["Name"] = "†" + row["Name"]
             lg_dic = {
                 "ID": row["ID"],
