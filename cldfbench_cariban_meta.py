@@ -140,27 +140,27 @@ class Dataset(BaseDataset):
                 },
             }
         )
-        # args.writer.cldf.add_component("TreeTable")
-        # args.writer.cldf.add_component("MediaTable")
-        # args.writer.objects['MediaTable'].append(dict(
-        #         ID="fm-tree",
-        #         Media_Type='text/plain',
-        #         Download_URL="file:///matter.nwk",
-        #         Path_In_Zip=None
-        #     ))
+        args.writer.cldf.add_component("TreeTable")
+        args.writer.cldf.add_component("MediaTable")
+        tree = load("data/tree.nwk").replace("\n", "").replace(" ", "")
+        args.writer.objects['MediaTable'].append(dict(
+                ID="fm-tree",
+                Media_Type='text/x-nh',
+                Download_URL=f"data:text,{tree}",
+                Path_In_Zip=None
+            ))
 
-        # args.writer.objects['TreeTable'].append(dict(
-        #     ID="fm-tree",
-        #     Name="fm-tree",
-        #     Media_ID="fm-tree",
-        #     Tree_Is_Rooted=True,
-        #     # Tree_Type=type_,
-        #     Description="A relatively conservative tree based on shared innovations.",
-        #     Tree_Branch_Length_Unit=None,
-        #     Source=None,
-        # ))
+        args.writer.objects['TreeTable'].append(dict(
+            ID="fm-tree",
+            Name="fm-tree",
+            Media_ID="fm-tree",
+            Tree_Is_Rooted=True,
+            # Tree_Type=type_,
+            Description="A relatively conservative tree based on shared innovations.",
+            Tree_Branch_Length_Unit=None,
+            Source=None,
+        ))
 
-        # dump(load("raw/cari1283.nwk"), self.cldf_specs().dir / "matter.nwk")
         args.writer.cldf.add_foreign_key(
             "LanguageTable", "Dialect_Of", "LanguageTable", "ID"
         )
