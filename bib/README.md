@@ -605,6 +605,12 @@ Books.
 
 
 
+Coutinho Costa, Isabella, Marcelo Costa da Silva, and Edmilson Magalhães
+Rodrigues. n.d. "Dicionário Ye'kwana." ProDoclin, Museu do Índio.
+<https://japiim.museudoindio.gov.br/dic/yekwana/index.php>.
+
+
+
 Crevels, Mily. 2012. "Language Endangerment in South America: The Clock
 Is Ticking." In *The Indigenous Languages of South America*, edited by
 Lyle Campbell and Verónica Grondona, 2:167--233. The World of
@@ -2105,6 +2111,14 @@ and Corresponding Morpheme Lexicon."
 Meira, Sérgio, Joshua Birchall, and Natalia Chousou-Polydouri. 2015. "A
 Character-Based Internal Classification of the Cariban Language Family."
 Leiden.
+
+
+
+Meira, Sérgio, Ana Carolina Ferreira Alves, Ana Paula Gomes da Silva,
+Aurélio Alves Gonçalves, Daniel Alves Ferreira, Isaque Franco Peres,
+Diene Flores Franco, et al. n.d. "Dicionário Taurepang." ProDoclin,
+Museu do Índio.
+<https://japiim.museudoindio.gov.br/dic/taurepang/index.php>.
 
 
 
