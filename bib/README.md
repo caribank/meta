@@ -606,7 +606,7 @@ Books.
 
 
 Coutinho Costa, Isabella, Marcelo Costa da Silva, and Edmilson Magalhães
-Rodrigues. n.d. "Dicionário Ye'kwana." ProDoclin, Museu do Índio.
+Rodrigues. 2023. "Dicionário Ye'kwana." ProDoclin, Museu do Índio.
 <https://japiim.museudoindio.gov.br/dic/yekwana/index.php>.
 
 
@@ -2116,7 +2116,7 @@ Leiden.
 
 Meira, Sérgio, Ana Carolina Ferreira Alves, Ana Paula Gomes da Silva,
 Aurélio Alves Gonçalves, Daniel Alves Ferreira, Isaque Franco Peres,
-Diene Flores Franco, et al. n.d. "Dicionário Taurepang." ProDoclin,
+Diene Flores Franco, et al. 2023. "Dicionário Taurepang." ProDoclin,
 Museu do Índio.
 <https://japiim.museudoindio.gov.br/dic/taurepang/index.php>.
 
