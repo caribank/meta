@@ -3,7 +3,7 @@
 -   compiled by Florian Matter
 -   obligatory references to Fabre (2005) and Hammarström et al. (2020)
 -   spotted an error? know a missing source? [tell me
-    more](https://github.com/karipona/meta/issues/new)
+    more](https://github.com/caribank/meta/issues/new)
 
 ## Sources 
 
