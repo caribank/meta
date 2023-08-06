@@ -27,4 +27,4 @@ bibrun:
 	perl -pi -e 's/::://g' bib/README.md
 	perl -pi -e 's/{#refs .references .csl-bib-body .hanging-indent}//g' bib/README.md
 	perl -pi -e 's/{#sources .unnumbered}//g' bib/README.md
-	perl -pi -e 's/PDFLINK/[request PDF]/g' bib/README.md
+	perl -pi -e 's/PDFLINK/[Request PDF]/g' bib/README.md
