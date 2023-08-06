@@ -12,230 +12,208 @@
 Abbott, Miriam. 1991. "Macushi." In *Handbook of Amazonian Languages*,
 edited by Desmond C. Derbyshire and Geoffrey K. Pullum, 3:23--160.
 Berlin/New York: Mouton de Gruyter.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-macushiabbott1991.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20macushiabbott1991.).
 
 
 
 Álvarez, José. 1997. "Split Ergativity and Complementary Distribution of
 NP's and Pronominal Affixes in Pemón (Cariban)." *Opción* 13 (24):
-69--94. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like
-to read alvarez1998split.).
+69--94.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alvarez1998split.).
 
 
 
 ---------. 2000. "Construcciones Progresivas En Pemón y Otras Lenguas
 Caribes." *Opción*, no. 32: 96--130.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-alvarez2000construcciones.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alvarez2000construcciones.).
 
 
 
 ---------. 2008. "Cláusulas Relativas, Nominalización y Constituyentes
 En Pemón (Caribe)." *Opción* 24 (57): 114--43.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-alvarez2008clausulas.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alvarez2008clausulas.).
 
 
 
 ---------. 2016. "Esbozo de Una Gramática de La Lengua Kari'ña."
 Maracaibo.
 [https://www.academia.edu/28516773/Esbozo\\\\\_de\\\\\_una\\\\\_gramática\\\\\_de\\\\\_la\\\\\_lengua\\\\\_kariña](https://www.academia.edu/28516773/Esbozo\\_de\\_una\\_gramática\\_de\\_la\\_lengua\\_kariña).
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-alvarez2016esbozo.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alvarez2016esbozo.).
 
 
 
 ---------. 2018a. *Kure Mana Choto Maimuru*. Maracaibo: Universidad del
-Zulia. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like to
-read alvarez2018kumana.).
+Zulia.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alvarez2018kumana.).
 
 
 
 ---------. 2018b. "Roroimü Töpai Orinoko Kuwak: El Viaje de
 Koch-Grünberg En Pemón: Presentación y Análisis Lingüístico."
 [https://www.academia.edu/35836478/Roroimü\\\\\_töpai\\\\\_Orinoko\\\\\_kuwak\\\\\_El\\\\\_viaje\\\\\_de\\\\\_Koch\\\\\_Grünberg\\\\\_en\\\\\_pemón\\\\\_Presentación\\\\\_y\\\\\_análisis\\\\\_lingüístico](https://www.academia.edu/35836478/Roroimü\\_töpai\\_Orinoko\\_kuwak\\_El\\_viaje\\_de\\_Koch\\_Grünberg\\_en\\_pemón\\_Presentación\\_y\\_análisis\\_lingüístico).
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-alvarez2018kg.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alvarez2018kg.).
 
 
 
 Alves, Ana Carolina Ferreira. 2010. "Phonological Aspects of Arara
 (Carib, Brazil)." Master's thesis, Radboud Universiteit.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-alves2010arara.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alves2010arara.).
 
 
 
 ---------. 2017. "Morfofonologia, Morfossintaxe e o Sistema de Tempo,
 Aspecto e Modo Em Arara (Karib)." PhD thesis, Universidade de São Paulo.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-alves2017arara.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20alves2017arara.).
 
 
 
 Amódio, Emanuele, and Vicente Pira. 2007. *Makuxi Maimu -- Língua
 Makuxi: Guia Para Aprendizagem e Dicionário Makuxi*. 3rd ed. Manaus:
-Editora Valer. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read amodio2007lingua.).
+Editora Valer.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20amodio2007lingua.).
 
 
 
 Beria, José, and H. Granados. 2003. "El Relativo de Sujeto En Kari'ña."
 *Línguas Indígenas Americanas*, no. 3: 7--22.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-beria2003relativo.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20beria2003relativo.).
 
 
 
 Bonfim, Evandro de Sousa. 2015. "A Pessoa Inclusiva Em Bakairi:
 Morfologia Pronominal e Ontologia Em Línguas Caribe." *Espaço Ameríndio*
-9 (1): 35--53. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read bonfim2015inclusiva.).
+9 (1): 35--53.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20bonfim2015inclusiva.).
 
 
 
 Bruno, Ana Carla dos Santos. 1996. *Dicionário
 Waimiri-Atroari-Português*. Manaus: Programa Waimirí-Atroari / Conevênio
-FUNAI-Eletronorte. [Request PDF](mailto:caribanresources@gmail.com?subject=I
-would like to read bruno1996dictionary.).
+FUNAI-Eletronorte.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20bruno1996dictionary.).
 
 
 
 Cáceres Arandia, Natalia. 2018. "Syllable Reduction in Ye'kwana:
 Morphologized Phonology." *International Journal of American
 Linguistics* 84 (2): 159--205.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-arandia2018syllable.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20arandia2018syllable.).
 
 
 
 Cáceres, Natalia. 2011. "Grammaire Fonctionnelle-Typologique Du
 Ye'kwana, Langue Caribe Du Venezuela." PhD thesis, Université Lumière
-Lyon 2. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like
-to read maquiritaricaceres2011.).
+Lyon 2.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20maquiritaricaceres2011.).
 
 
 
 Caesar-Fox, Desrey Clementine. 2003. "Zauro'nödok Agawayo Yau: Variants
 of Akawaio Spoken at Waramadong." PhD thesis, Rice University.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-akawaiocaesar2003.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20akawaiocaesar2003.).
 
 
 
 Camargo, Eliane. 2001. "Aspects de La Morphologie Apalai Dans Les
 Constructions d'appartenance." *Amerindia*, no. 26: 123--46.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-camargo2001aspects.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20camargo2001aspects.).
 
 
 
 ---------. 2002. *Léxico Bilingüe: Aparai-Português / Português-Aparai*.
 München: Lincom Europa.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-camargo2002lexico.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20camargo2002lexico.).
 
 
 
 Camargo, Eliane, and Anaiman Tapinkili. 2010. *Hakëne Omijau Eitop
 Wajana-Palasisi / Dictionnaire Bilingue Wayana-Français*. Paris:
 CELIA/DRAC-Guyane, TEKUREMAI.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-camargo2010wayana.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20camargo2010wayana.).
 
 
 
 Campetela, Cilene. 1997. "Análise Do Sistema de Marcação de Caso Nas
 Orações Independentes Da Língua Ikpeng." Master's thesis, Universidade
 Estadual de Campinas.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-campetela1997analise.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20campetela1997analise.).
 
 
 
 ---------. 2002. "Aspectos Prosódicos Da Língua Ikpeng." PhD thesis,
 Universidade Estadual de Campinas.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-campetela2002aspectos.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20campetela2002aspectos.).
 
 
 
 Carson, Neusa Martins. 1982. "Phonology and Morphosyntax of Macuxi
 (Carib) (Brazil)." PhD thesis, The University of Kansas.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-macushicarson1982.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20macushicarson1982.).
 
 
 
 Chagas, Angela Fabíola Alves. 2013. "O Verbo Ikpeng: Estudo
 Morfossintático e Semântico-Lexical." PhD thesis, Universidade Estadual
-de Campinas. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read chagas2013verbo.).
+de Campinas.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20chagas2013verbo.).
 
 
 
 Chagas, Angela Fabíola Alves, Ayre Txicão, Kay Txicão, and Maiua Txicão.
 2019. "Ikpeng: Puron Mïran / História Do Sapo." *Revista Linguíʃtica* 15
-(1): 303--35. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read chagas2019ikpeng.).
+(1): 303--35.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20chagas2019ikpeng.).
 
 
 
 Courtz, Henk. 2008. *A Carib Grammar and Dictionary*. Toronto: Magoria
-Books. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like to
-read courtz2008carib.).
+Books.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20courtz2008carib.).
 
 
 
 Cruz, Maria Odileiz Sousa. 2005. "Fonologia e Gramática Ingarikó:
 Kaʔpon-Brasil." PhD thesis, Vrije Universiteit Amsterdam.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-cruz2005fonologia.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20cruz2005fonologia.).
 
 
 
 Cunha, Carla Maria. 2004. "Um Estudo de Fonologia Da Língua Makuxi
 (Karib): Inter-Relações Das Teorias Fonológicas." PhD thesis,
 Universidade Estadual de Campinas.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-cunha2004macushi.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20cunha2004macushi.).
 
 
 
 Derbyshire, Desmond C. 1961. "Hixkaryana (Carib) Syntax Structure."
 *International Journal of American Linguistics* 27 (2--3): 125--42,
-226--36. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like
-to read derbyshire1961hixkaryana.).
+226--36.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20derbyshire1961hixkaryana.).
 
 
 
 ---------. 1965. *Textos Hixkaryâna*. *MPEG, Publicações Avulsas*. Vol.
 3. Publicações Avulsas. Belém: MPEG.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-derbyshire1965textos.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20derbyshire1965textos.).
 
 
 
 ---------. 1979. *Hixkaryana*. Vol. 1. Lingua Descriptive Studies.
 Amsterdam: North-Holland.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-hixkaryanaderby1979.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hixkaryanaderby1979.).
 
 
 
 ---------. 1985. *Hixkaryana and Linguistic Typology*. Dallas: Summer
 Institute of Linguistics.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-hixkaryanaderby1985.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hixkaryanaderby1985.).
 
 
 
 ---------. 1986. "Topic Continuity and OVS Order in Hixkaryana." In
 *Native South American Discourse*, edited by Joel Sherzer and Greg
 Urban, 237--306. Amsterdam: Mouton de Gruyter.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-derbyshire1986topic.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20derbyshire1986topic.).
 
 
 
@@ -244,58 +222,50 @@ of the Western Carib Languages of the Sierra de Perijá, Venezuela." In
 *Linguistica - Folklore - Storia Americana - Sociologia: Atti Del XL
 Congresso Internazionale Degli Americanisti*, edited by Ernesta Cerulli
 and Gilda Della Ragione, 3:69--77. Genoa: Tilgher.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-durbin1975yukpa.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20durbin1975yukpa.).
 
 
 
 Edwards, W. F. 1980. *A Short Grammar and Dictionary of the Akawaio and
 Arekuna Languages of Guyana*. Georgetown: University of Guyana.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-edwards1980short.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20edwards1980short.).
 
 
 
 Escoriaza, Damián de. 1960. "Algunos Datos Linguisticos Mas Sobre La
 Lengua Makiritare." *Antropológica* 7: 61--70.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-escoriaza1960maqui.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20escoriaza1960maqui.).
 
 
 
 Flores, Elexander. 2002. "Morfosintaxis Del Japreria." Master's thesis,
 Universidad del Zulia.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-japreriaflores2002.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20japreriaflores2002.).
 
 
 
 García Ferrer, Donaldo José. 2006. "Diccionario Piloto Pemón-Español."
 Bachelor's thesis, Universidad del Zulia.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-garcia2006diccionario.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20garcia2006diccionario.).
 
 
 
 Gildea, Spike. 1989. "Simple and Relative Clauses in Panare." Master's
 thesis, University of Oregon.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-gildea1989panare.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea1989panare.).
 
 
 
 ---------. 1994. "Semantic and Pragmatic Inverse: 'Inverse Alignment'
 and 'Inverse Voice' in Carib of Surinam." In *Voice and Inversion*,
 edited by Talmy Givón, 187--230. Amsterdam/Philadelphia: John Benjamins.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-gildea1994inversion.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea1994inversion.).
 
 
 
 ---------. 1998. *On Reconstructing Grammar: Comparative Cariban
 Morphosyntax*. Oxford: Oxford University Press.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-gildea1998.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea1998.).
 
 
 
@@ -303,193 +273,170 @@ Gildea, Spike, Berend J. Hoff, and Sérgio Meira. 2010. "The Story of \*ô
 in the Cariban Family." In *Fieldwork and Linguistic Analysis in
 Indigenous Languages of the Americas*, edited by Andrea L. Berez, Jean
 Mulder, and Daisy Rosenblum, 91--123. University of Hawai'i Press.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-gildea2010story.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea2010story.).
 
 
 
 Girard, Victor James. 1971. "Proto-Carib Phonology." PhD thesis,
 University of California.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-girard1971proto.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20girard1971proto.).
 
 
 
 Granadillo, Tania. 2019. "El Mapoyo y La Rama Venezolana de Lenguas
 Caribes." *Cadernos de Etnolingüística* 7 (1): 43--55.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-granadillo2019mapoyo.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20granadillo2019mapoyo.).
 
 
 
 Guerrero Beltrán, David Felipe. 2019. "The Grammar of Space in Karijona,
 a Cariban Language from Northwest Amazonia." Master's thesis,
 Universidad Nacional de Colombia.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-guerrero2019carijo.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20guerrero2019carijo.).
 
 
 
 Guerrero-Beltrán, David Felipe. 2016a. "Estructura de La Oración Simple
 En Karijona: Lengua Caribe de La Amazonía Colombiana." Bachelor's
 thesis, Universidad Nacional de Colombia.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-guerrero2016carijo.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20guerrero2016carijo.).
 
 
 
 ---------. 2016b. "The Alignment and Person-Marking System in Karijona
 (Cariban, Northwest Amazonia)." Paper presented at the Language and
 Culture Research Centre, James Cook University
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-guerrero2016karihona.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20guerrero2016karihona.).
 
 
 
 Hall, Katherine Lee. 1988. "The Morphosyntax of Discourse in de'kwana
 Carib." PhD thesis, Washington University.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-maquiritarihall1988.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20maquiritarihall1988.).
 
 
 
 Hanes, L. C. 1952. "Phonemes of Motilone (Carib)." *International
 Journal of American Linguistics* 39 (3): 146--49.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-hanes1952yukpa.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hanes1952yukpa.).
 
 
 
 Hawkins, Robert E. 1998. "Wai Wai." In *Handbook of Amazonian
 Languages*, edited by Desmond C. Derbyshire and Geoffrey K. Pullum,
 4:25--224. Berlin/New York: Mouton de Gruyter.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-waiwaihawkins1998.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20waiwaihawkins1998.).
 
 
 
 Hoff, Berend J. 1968. *The Carib Language: Phonology, Morphophonology,
 Morphology, Texts and Word Index*. Vol. 55. Verhandelingen van Het
 Koninklijk Instituut Voor Taal-, Land- En Volkenkunde. The Hague:
-Martinus Nijhoff. [Request PDF](mailto:caribanresources@gmail.com?subject=I
-would like to read hoff1968carib.).
+Martinus Nijhoff.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hoff1968carib.).
 
 
 
 ---------. 1995. "Configurationality and Nonconfigurationality in the
 Carib Language of Surinam." *International Journal of American
 Linguistics* 61 (4): 347--77.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-hoff1995configurationality.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hoff1995configurationality.).
 
 
 
 Hurley, Jorge. 1932. "Vocabularios Dos Aborigenes Dos Rios Trombetas,
 Cachorro e Jacycury." *Revista Do Instituto Historico e Geographico Do
-Pará* 7: 229--35. [Request PDF](mailto:caribanresources@gmail.com?subject=I
-would like to read hurley1932kaxui.).
+Pará* 7: 229--35.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hurley1932kaxui.).
 
 
 
 Jiménez Velázquez, Zuleima Maryori. 2019. "Los Sistemas de Alineamiento
 En Dhe'kwana." Master's thesis, Centro de Investigaciones y Estudios
 Superiores en Antropología Social.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-jimenez2019dhekwana.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20jimenez2019dhekwana.).
 
 
 
 Koch-Grünberg, Theodor. 1908. "Die Hianákoto-Umáua." *Anthropos* 3:
 83--124, 297--335, 952--82.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-koch1908hiana.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koch1908hiana.).
 
 
 
 Koehn, Edward H. 1965. "Bound Person Markers of the Apalaí Verb Phrase:
 Preliminary Analysis." Anápolis, GO: Associação Internacional de
 Linguística, SIL -- Brasil.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-koehn1965verb.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koehn1965verb.).
 
 
 
 ---------. 1976. "The Historical Tense in Apalaí Narrative."
 *International Journal of American Linguistics* 42 (3): 243--52.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-koehn1976historical.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koehn1976historical.).
 
 
 
 ---------. 2009. "The Apalaí Phrase: Preliminary Analysis." Anápolis,
 GO: Associação Internacional de Linguística, SIL -- Brasil.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-koehn2009phrase.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koehn2009phrase.).
 
 
 
 Koehn, Edward H., and Sally S. Koehn. 1995. *Vocabulário Básico
 Apalaí-Português: Dicionário Da Língua Apalaí*. Brasilia: Sociedade
 Internacional de Lingüística.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-koehn1995apalai.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koehn1995apalai.).
 
 
 
 Koehn, Edward, and Sally Koehn. 1986. "Apalai." In *Handbook of
 Amazonian Languages*, edited by Desmond C. Derbyshire and Geoffrey K.
 Pullum, 1:33--127. Berlin/New York: Mouton de Gruyter.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-koehn1986apalai.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koehn1986apalai.).
 
 
 
 ---------. 1994. *14 Textos Apalaí*. Brasília: Summer Institute of
-Linguistics. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read koehns1994textos.).
+Linguistics.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koehns1994textos.).
 
 
 
 Koehn, Sally S. 1966. "Apalaí Verb Structure: Preliminary Analysis."
 Anápolis, GO: Associação Internacional de Linguística, SIL -- Brasil.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-koehn1966verb.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20koehn1966verb.).
 
 
 
 Largo, Wilson S. 2011. "Una Gramática Yukpa." Bogotá: Fundación para el
 Desarrollo de Pueblos Marginados. ms
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-largo2011yukpa.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20largo2011yukpa.).
 
 
 
 MacDonell, Ronald Beaton. 1994. "La Phonologie Du Makuxi, Langue Caribe:
 Une Analyse Fonctionnelle." Master's thesis, Université Laval.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-macdonell1994macushi.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20macdonell1994macushi.).
 
 
 
 Maleko'wa, Charles, and Henk Courtz. 1999. *Kari'na Nekarity'san*.
 Paramaribo: Instituut voor Taalwetenschap.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-malekowa1999karina.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20malekowa1999karina.).
 
 
 
 Mattéi-Müller, Marie Claude. 1975. "Vocabulario Básico de La Lengua
 Mapoya." *Antropológica* 42: 57--78.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-muller1975mapoyo.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20muller1975mapoyo.).
 
 
 
 Mattéi-Müller, Marie-Claude. 1994. *Diccionario Ilustrado
 Panare-Español, Índice Español-Panare: Un Aporte Al Estudio de Los
 Panares-e'ñepa*. Caracas: Graficas Armitano.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-mattei1994diccionario.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mattei1994diccionario.).
 
 
 
@@ -498,35 +445,30 @@ Caribe." In *Línguas Indígenas Brasileiras: Fonologia, Gramática e
 História*, edited by Ana Suelly Arruda Câmara Cabral and Aryon D.
 Rodrigues, 37--53. Belém: EDUFPA. Atas do I Encontro Internacional do
 Grupo de Trabalho sobre Línguas Indígenas da ANPOLL
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-mattei2002busca.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mattei2002busca.).
 
 
 
 Mattiola, Simone, and Spike Gildea. under review. "The Pluractional
 Marker -Pödï of Akawaio (Cariban) and Beyond," under review. ms
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-mattiola2020pluractional.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mattiola2020pluractional.).
 
 
 
 Medina, Raimundo. 1997. "Algunas Consideraciones Sobre La Modalidad En
 Yukpa." *Lingua Americana* 1 (1): 85--98.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-medina1997algunas.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20medina1997algunas.).
 
 
 
 Meira, Sérgio. 1998. "A Reconstruction of Proto-Taranoan: Phonology and
 Inflectional Morphology." Master's thesis, Rice University.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira1998proto.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira1998proto.).
 
 
 
 ---------. 1999. "A Grammar of Tiriyó." PhD thesis, Rice University.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-triomeira1999.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20triomeira1999.).
 
 
 
@@ -537,185 +479,165 @@ of Americanists in Warsaw and the Spinoza Workshop on Amerindian
 Languages in Leiden*, edited by Mily Crevels, Mily Crevels, Sérgio
 Meira, and Hein van der Voort, 255--75. Leiden: Research institution of
 Asian, African,; Amerindian Studies (CNWS).
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira2002first.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2002first.).
 
 
 
 ---------. 2003a. "A Marcação de Pessoa Nos Verbos Em Bakairi (Karíb)."
 In, edited by Francesc Queixalós, 2:155--63. Brasília, Paris:
 Laboratório de Línguas Indígenas, Centre d'études des langues indigènes
-d'Amérique. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read meira2003bakairi.).
+d'Amérique.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2003bakairi.).
 
 
 
 ---------. 2003b. "Primeras Observaciones Sobre La Lengua Yukpa."
 *Lingua Americana* 7 (12).
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira2003primeras.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2003primeras.).
 
 
 
 ---------. 2005. "Reconstructing Pre-Bakairi Segmental Phonology."
 *Anthropological Linguistics* 47 (3): 261--91.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira2005bakairi.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2005bakairi.).
 
 
 
 ---------. 2006. "Syntactic Reanalysis in Yukpa (Cariban)."
 *International Journal of American Linguistics* 72 (1): 135--50.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira2006syntactic.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2006syntactic.).
 
 
 
 Meira, Sérgio, Joshua Birchall, and Natalia Chousou-Polydouri. 2015. "A
 Character-Based Internal Classification of the Cariban Language Family."
 Leiden. Talk held at SLE 2015
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira2015classification.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2015classification.).
 
 
 
 Meira, Sérgio, and Bruna Franchetto. 2005. "The Southern Cariban
 Languages and the Cariban Family." *International Journal of American
 Linguistics* 71 (2): 127--92.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira2005southern.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2005southern.).
 
 
 
 Meira, Sérgio, Spike Gildea, and Berend J. Hoff. 2010. "On the Origin of
 Ablaut in the Cariban Family." *International Journal of American
 Linguistics* 76 (4): 477--515.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-meira2010origin.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2010origin.).
 
 
 
 Mosonyi, Esteban Emilio, and Basilio Benavides. 2000. "Pemón." In,
 edited by Esteban Emilio Mosonyi and Jorge C. Mosonyi, 2:492--543.
 Caracas: Fundación Bigott.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-mosonyi2000pemon.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mosonyi2000pemon.).
 
 
 
 Mosonyi, Jorge C. 1978. *Diccionario Básico Del Idioma Cariña*. Caracas:
-UCAB. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like to
-read mosonyi1978kalina.).
+UCAB.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mosonyi1978kalina.).
 
 
 
 Olza, Jesús, and Cesáreo de Armellada. 1994. *Gramática de La Lengua
 Pemón (Morfosintaxis)*. Caracas: Universidad Católica Andrés Bello.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-pemondearmellada1994.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pemondearmellada1994.).
 
 
 
 Oquendo, Luis, and Venancio Morales. 2007. *Gramática Pedagógica de La
 Lengua Yukpa: Nanvonku o Tuampatpo Yukpape Kuripa Tusi Kuripa Voni Tatpo
 Yukpa Vonku*. Caracas: FEDUPEL.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-oquendo2007gramatica.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20oquendo2007gramatica.).
 
 
 
 Pachêco, Frantomé B. 1997a. "Aspectos Da Gramática Ikpeng (Karíb)."
 Master's thesis, Universidade Estadual de Campinas.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-ikpengpacheco1997.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20ikpengpacheco1997.).
 
 
 
 ---------. 1997b. "Relativização de Objeto Em Ikpeng/ Txicão (Karib):
 Uma Proposta de Análise." *Estudos Lingüísticos* 26: 697--701.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-pacheco1997relativizacao.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pacheco1997relativizacao.).
 
 
 
 ---------. 2001. "Morfossintaxe Do Verbo Ikpeng (Karíb)." PhD thesis,
 Universidade Estadual de Campinas.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-ikpengpacheco2001.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20ikpengpacheco2001.).
 
 
 
 ---------. 2003. "Verbos Intransitivos Em Ikpeng (Caribe): Proposta de
 Organização Morfossintática." *Amerindia*, no. 28: 95--108.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-pacheco2003intransitivos.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pacheco2003intransitivos.).
 
 
 
 ---------. 2007. "Morfofonologia Dos Prefixos Pessoais Em Ikpeng
 (Karíb)." *Estudos Lingüísticos* 36 (1): 268--77.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-pacheco2007morfofonologia.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pacheco2007morfofonologia.).
 
 
 
 ---------. 2009. "Construções Deverbais e Processos de Subordinação Em
 Ikpeng (Karíb): Breve Discussão." *ReVEL* 7 (3).
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-pacheco2009construcoes.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pacheco2009construcoes.).
 
 
 
 Payne, Thomas E., and Doris L. Payne. 2013. *A Typological Grammar of
 Panare: A Cariban Language of Venezuela*. Brill's Studies in the
 Indigenous Languages of the Americas. Leiden: Brill.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-panarepayne2013.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20panarepayne2013.).
 
 
 
 Pelleprat, Pierre. 1655. *Introduction a La Langue Des Galibis: Sauuages
 de La Terre Ferme de l'amerique Meridionale*. Paris: Cramoisy.
 <http://hdl.handle.net/11858/00-001M-0000-0012-813E-0>.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-pelleprat1655galibi.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pelleprat1655galibi.).
 
 
 
 Pessoa, Katia Nepomuceno. 2006. "Fonologia Taurepang e Comparação
 Preliminar Da Fonologia de Línguas Do Grupo Pemóng (Família Caribe)."
 Master's thesis, Universidade Federal de Pernambuco.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-pessoa2006fonologia.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pessoa2006fonologia.).
 
 
 
 Reichel-Dolmatoff, Gerardo. 1945. "Los Indios Motilones: Etnografía y
 Lingüística." *Revista Del Instituto Etnológico Nacional* 2 (1):
-15--115. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like
-to read reichel1945yukpa.).
+15--115.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20reichel1945yukpa.).
 
 
 
 Renault-Lescure, Odile. 1981. "Evolution Lexicale Du Galibi: Langue
 Caribe Du Guyane Française." PhD thesis, Université de la Sorbonne
-(Paris IV). [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read lescure1981kalina.).
+(Paris IV).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20lescure1981kalina.).
 
 
 
 Robayo Moreno, Camilo Alberto. 1989. "'En Faisant Une Rame': Texte
 Carijona." *Amerindia* 14: 189--99.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-robayo1989rame.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20robayo1989rame.).
 
 
 
 ---------. 2000a. "Avance Sobre Morfología Carijona." In *Lenguas
 Indígenas de Colombia*, edited by María Stella González de Pérez and
 María Luisa Rodríguez de Montes, 171--80. Santafé de Bogotá: Instituto
-Caro y Cuervo. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read robayo2000avance.).
+Caro y Cuervo.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20robayo2000avance.).
 
 
 
@@ -723,22 +645,21 @@ like to read robayo2000avance.).
 In *Lenguas Indígenas de Colombia*, edited by María Stella González de
 Pérez and María Luisa Rodríguez de Montes, 709--17. Santafé de Bogotá:
 Instituto Caro y Cuervo.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-robayo2000intro.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20robayo2000intro.).
 
 
 
 Salles Kobayashi, Filipe Hisao de, and Marília Lopes da Costa Facó
 Soares. 2015. "A Codificação de Argumentos No Verbo Ikpeng (Karíb)."
-*ReVEL* 13 (24). [Request PDF](mailto:caribanresources@gmail.com?subject=I
-would like to read ikpeng2015kobayashi.).
+*ReVEL* 13 (24).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20ikpeng2015kobayashi.).
 
 
 
 Sánchez, Ana Carolina, and Yandira Guerreiro. 2011. "Estrategias de
 Relativización En Yukpa." *Synergies*, no. Venezuela n° spécial:
-235--47. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like
-to read sanchez2011relativizacion.).
+235--47.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20sanchez2011relativizacion.).
 
 
 
@@ -746,114 +667,100 @@ Sapién, Racquel-María, Natalia Cáceres Arandia, Spike Gildea, and Sérgio
 Meira. 2021. "Antipassive and Semantic Classes of Verbs in the Cariban
 Family." In *The Multifaceted Nature of Antipassive*, edited by
 Katarzyna Janic and Alena Witzlack-Makarevich. Amsterdam: John
-Benjamins. [Request PDF](mailto:caribanresources@gmail.com?subject=I would
-like to read sapien2021antipassive.).
+Benjamins.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20sapien2021antipassive.).
 
 
 
 Schomburgk, Robert. 1850. "A Vocabulary of the Maiongkong Language."
 *Proceedings of the Philological Society* IV (92): 217--23.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-schomburgk1850maqui.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20schomburgk1850maqui.).
 
 
 
 Schuring, Phillip Arthur. n.d. "Uma Gramática Morfossintática Bâsica Da
 Língua Katxuyana." ms
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-schuring2018kaxuyana.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20schuring2018kaxuyana.).
 
 
 
 Segovia, Elena Niño. 1999. "Aspectos de La Morfología Del Yukpa."
 Master's thesis, Universidad del Zulia.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-segovia1999yukpa.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20segovia1999yukpa.).
 
 
 
 Souza, Isaac Costa de. 1988. "Contribuição Para a Fonologia Da Língua
 Arara (Karib)." Master's thesis, Universidade Estadual de Campinas.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-desouza1988arara.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20desouza1988arara.).
 
 
 
 ---------. 2010. "A Phonological Description of 'Pet Talk' in Arara."
 Master's thesis, University of North Dakota.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-desouza2010pettalk.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20desouza2010pettalk.).
 
 
 
 Souza, Shirley Dias Cardoso de. 1993. "Alguns Aspectos Morfológicos Da
 Língua Arara (Karib)." Master's thesis, Universidade de Brasília.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-souza1993arara.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20souza1993arara.).
 
 
 
 ---------. 2010. "The Morphology of Nouns in the Ugoroŋmo Language
 (Arara of Pará)." Master's thesis, University of North Dakota.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-desouza2010arara.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20desouza2010arara.).
 
 
 
 Souza, Tania Conceição Clemente. 2003. "Referencialidade Em Bakairi."
 *Amerindia*, no. 28: 201--12.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-souza2003referencialidade.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20souza2003referencialidade.).
 
 
 
 Souza, Tânia Conceição Clemente de. 1994. "A Sintaxe de Uma Língua
 Ergativa: O Bakairí." *Revista Latinoamericana de Estudios
 Etnolingüísticos* 8: 17--38.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-souza1994bakairi.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20souza1994bakairi.).
 
 
 
 ---------. 1999. "Discurso e Oralidade: Um Estudo Em Língua Indígena."
-PhD thesis, UNICAMP. [Request PDF](mailto:caribanresources@gmail.com?subject=I
-would like to read souza1999bakairi.).
+PhD thesis, UNICAMP.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20souza1999bakairi.).
 
 
 
 Stegeman, Ray, and Rita Hunter. 2014. *Akawaio-English Dictionary*. SIL
 International. <https://akawaio.webonary.org/>.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-stegeman2014akawaio.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20stegeman2014akawaio.).
 
 
 
 Steinen, Karl von den. 1892. *Die Bakaïri-Sprache: Wörterverzeichniss,
 Sätze, Sagen, Grammatik; Mit Beiträgen Zu Einer Lautlehre Der
 Karaïbischen Grundsprache*. Leipzig: Koehler.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-von1892bakairi.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20von1892bakairi.).
 
 
 
 Swiggers, Gisela. 2004. "El Orden de Palabras En Yukpa." *Lingua
 Americana*, no. 14: 120--31.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-swiggers2004orden.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20swiggers2004orden.).
 
 
 
 ---------. 2010. "Gramática de Referencia Del Pemón." PhD thesis,
 Universidad del Zulia.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-swiggers2010gramatica.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20swiggers2010gramatica.).
 
 
 
 Tavares, Petronila da Silva. 2005. "A Grammar of Wayana." PhD thesis,
 University of Houston; UMI.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-wayanatavares2005.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20wayanatavares2005.).
 
 
 
@@ -861,36 +768,32 @@ Villalón, María Eugenia, and Tania Granadillo. 2000. "Los Marcadores de
 Persona de La Lengua Mapoyo." In, edited by Hein van der Voort and Simon
 van de Kerke, 197--211. Leiden: Research School of Asian, African,;
 Amerindian Studies (CNWS).
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-villalon2000person.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20villalon2000person.).
 
 
 
 Wheatley, James. 1969. "Bakairi Verb Structure." *Linguistics* 47 (47):
-80--100. [Request PDF](mailto:caribanresources@gmail.com?subject=I would like
-to read wheatley1969bakairi.).
+80--100.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20wheatley1969bakairi.).
 
 
 
 Wycliffe Bible Translators. 1986. "Ritonõpo Omiry."
 <http://downloads.dbs.org/downloads/pdf/APYWBT/APYWBT.pdf>.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-apalai1986bible.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20apalai1986bible.).
 
 
 
 Yamada, Racquel-María. 2010. "Speech Community-Based Documentation,
 Description, and Revitalization: Kari'nja in Konomerume." PhD thesis,
 University of Oregon.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-yamada2010speech.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20yamada2010speech.).
 
 
 
 ---------. 2011. "A New Approach to Ky- and -Ng in Kari'nja:
 Evidentiality or Something Else?" *International Journal of American
 Linguistics* 77 (1): 59--89.
-[Request PDF](mailto:caribanresources@gmail.com?subject=I would like to read
-yamada2011evidentiality.).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20yamada2011evidentiality.).
 
 
