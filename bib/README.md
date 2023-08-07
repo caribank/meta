@@ -2,7 +2,7 @@
 
 -   compiled by Florian Matter
 -   obligatory references to Fabre (2005) and Hammarström et al. (2020)
--   spotted an error? know a missing source? [tell me
+-   spotted an error? know a missing source? [tell us
     more](https://github.com/caribank/meta/issues/new)
 
 ## Sources 
@@ -175,6 +175,7 @@ Urban, 119--68. Berlin: Mouton de Gruyter.
 ---------. 2012. "A Grammar of Kalapalo, a Southern Cariban Language."
 ms.
 <https://islandora-ailla.lib.utexas.edu/islandora/object/ailla:134166>.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20basso2012kalapalo.).
 
 
 
@@ -188,6 +189,7 @@ Benjamins.
 ---------. 2019. "A Grammar of Kalapalo, a Southern Cariban Language."
 ms.
 <https://islandora-ailla.lib.utexas.edu/islandora/object/ailla:134166>.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20basso2019kalapalo.).
 
 
 
@@ -227,12 +229,12 @@ Vol. 1. Amsterdam: Elsevier.
 
 Bruno, Ana Carla. 2003. "Reduplicação Em Waimiri Atroari." *Amerindia*,
 no. 28: 83--94.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20bruno2003reduplicacao.).
 
 
 
-Bruno, Ana Carla dos Santos. 1996a. *Dicionário
-Waimiri-Atroari-Português*. Manaus: Programa Waimirí-Atroari / Conevênio
-FUNAI-Eletronorte.
+Bruno, Ana Carla dos Santos. 1996a. *Dicionário Waimiri Atroari /
+Português*.
 [Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20bruno1996dictionary.).
 
 
@@ -245,6 +247,7 @@ Manaus: Programa Waimirí-Atroari, Convênio FUNAI / Eletronorte.
 ---------. 2003. "Waimiri Atroari Grammar: Some Phonological,
 Morphological, and Syntactic Aspects." PhD thesis, University of
 Arizona.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20waimiribruno2003.).
 
 
 
@@ -257,17 +260,20 @@ Arizona.
 Waimiri-Atroari (Carib Family)." *ReVEL* 3 (7).
 [http://www.revel.inf.br/en/edicoes/?id =
 16](http://www.revel.inf.br/en/edicoes/?id = 16).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20bruno2009waimiri.).
 
 
 
 ---------. 2010. "Waimiri Atroari Verbal Morphology." *MOARA* 2 (34):
 235--62.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20bruno2010waimiri.).
 
 
 
 ---------. 2015. "Case Marking in Waimiri Atroari: Typical
 Nominative/Accusative or Nominative with Some Inverse/Split-s Features."
 *Revista Linguíʃtica* 4 (2).
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20bruno2015case.).
 
 
 
@@ -314,7 +320,8 @@ Oral En Yabarana." ms.
 ---------. 2017b. "Obsolescencia de Un Sistema Innovado: Marcación
 Opcional Ergativa En Yabarana (Caribe)." Austin: University of Texas.
 Paper presented at the Conference on Indigenous Languages of Latin
-America VIII.
+America VIII
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20caceres2017ergative.).
 
 
 
@@ -352,7 +359,8 @@ Practicar Yabarana." ms.
 Cáceres Arandia, Natalia, Spike Gildea, and Marie-Claude Mattéi-Müller.
 2017. "Loss of Inflection in Yawarana (Cariban)." San Antonio:
 University of Texas. Paper presented at the International Conference on
-Historical Linguistics 23.
+Historical Linguistics 23
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20caceres2017yawarana.).
 
 
 
@@ -370,7 +378,8 @@ Lyon 2.
 
 Cáceres, Natalia, and Spike Gildea. 2018. "A First Analysis of
 Tense-Aspect Constructions in Yawarana (Cariban)." Baños, Colombia.
-Paper presented at Amazónicas VI.
+Paper presented at Amazónicas VI
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20caceres2018yawarana.).
 
 
 
@@ -392,6 +401,7 @@ Mouton de Gruyter.
 
 Camargo, Eliane. 1996. "Aspects de La Phonologie Du Wayana." *Amerindia*
 21: 115--36.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20camargo1996wayana.).
 
 
 
@@ -408,6 +418,7 @@ Amérindienne Du Plateau Guyanais." *Cahiers de Linguistique de l'INALCO*
 
 ---------. 2000b. "Une Interaction Entre Localisation Et Aspect: Un
 Exemple de -Pëkë Et -Ja/e En Wayana." *Amerindia*, no. 25: 1--24.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20camargo2000interaction.).
 
 
 
@@ -437,6 +448,7 @@ Wayana (Caribe)." *Línguas Indígenas Americanas* 8 (1): 85--104.
 
 ---------. 2003c. "Relações Sintáticas e Semânticas Na Predicação
 Nominal Do Wayana: A Oração Com Cópula." *Amerindia*, no. 28: 133--60.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20camargo2003relacoes.).
 
 
 
@@ -461,6 +473,7 @@ Linguística." *Campos* 9 (2): 105--37.
 
 Camargo, Eliane, and Hervé Rivière. 2001. "Trois Chants de Guerre
 Wayana." *Amerindia* 26 (27): 87--122.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20camargo2001chants.).
 
 
 
@@ -522,6 +535,7 @@ States and Activities in Trio." *Amerindia*, no. 28: 161--82.
 ---------. 2004. *A Grammar of Trio: A Cariban Language of Suriname*.
 Vol. 55. Duisburger Arbeiten Zur Sprach- Und Kulturwissenschaft.
 Frankfurt am Main: Peter Lang.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20triocarlin2004.).
 
 
 
@@ -780,6 +794,13 @@ Berlin/New York: Mouton de Gruyter.
 
 
 
+*Dicionário Português Waimiri Atroari*. 1996. Manaus: Programa
+Waimirí-Atroari / Conevênio FUNAI-Eletronorte. Versão preliminar
+(Circualação Interna)
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20funai1996dictionary.).
+
+
+
 Dixon, R. M. W., and Alexandra Y. Aikhenvald, eds. 1999. *The Amazonian
 Languages*. Cambridge: Cambridge University Press.
 
@@ -902,6 +923,7 @@ Alto Xingu." *Cadernos de Estudos Lingüísticos*, no. 4: 45--72.
 ---------. 1986a. "Falar Kuikúru: Estudo Etnolinguistico de Um Grupo
 Karíbe Do Alto Xingu." PhD thesis, Museu Nacional da Universidade
 Federal do Rio de Janeiro.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20franchetto1986kuikuro.).
 
 
 
@@ -969,6 +991,7 @@ Text.
 Família Karib (Alto Xingu)." In, edited by Francesc Queixalós. Vol. 1.
 Brasília, Paris: Laboratório de Línguas Indígenas, Centre d'études des
 langues indigènes d'Amérique.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20franchetto2002kuikuro.).
 
 
 
@@ -1024,6 +1047,7 @@ Grammaticale. Paris: Peeters.
 
 ---------. 2008. "Absolutivo e Ergativo Pensados a Partir Do Kuikuro."
 *Amerindia*, no. 32: 37--56.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20franchetto2008absolutivo.).
 
 
 
@@ -1035,6 +1059,7 @@ Grammaticale. Paris: Peeters.
 ---------. 2010. "The Ergativity Effect in Kuikuro (Southern Carib,
 Brazil)." In *Ergativity in Amazonia*, edited by Spike Gildea and
 Francesc Queixalós, 121--58. Amsterdam: John Benjamins.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20franchetto2010ergativity.).
 
 
 
@@ -1404,6 +1429,7 @@ Master's thesis, Universidad Central de Venezuela.
 
 ---------. 1997b. "Marcadores de Persona Nominales y Verbales En La
 Lengua Mapoyo." Master's thesis, Universidad Central de Venezuela.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20granadillo1997mapoyo.).
 
 
 
@@ -1532,6 +1558,7 @@ Nacional.
 Hawkins, W. Neill, and Robert E. Hawkins. 1953. "Verb Inflection in
 Waiwai (Carib)." *International Journal of American Linguistics* 19 (3):
 201--11.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hawkins1953waiwai.).
 
 
 
@@ -1541,7 +1568,8 @@ Frontier*. New Haven: Yale University Press.
 
 
 Hill, Joseph H., and Tamara E. Hill. 1994. "Phonological Sketch of
-Waimiri-Atroari (Cariban)." ms.
+Waimiri-Atroari (Cariban)." ms
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hill1994waimiri.).
 
 
 
@@ -1604,12 +1632,14 @@ Properties." *International Journal of American Linguistics* 75 (3):
 
 Hough, Karen. 2008. "The Expression Wayana." Master's thesis, Leiden
 University.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20hough2008space.).
 
 
 
 Howard, Catherine V. 2001. "Wrought Identities: The Waiwai Expeditions
 in Search of the 'Unseen Tribes' of Northern Amazonia." PhD thesis,
 University of Chicago.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20howard2001wrought.).
 
 
 
@@ -1750,7 +1780,8 @@ Zentralbrasiliens."
 
 
 Lacerda, Edith. 1991. "Waimiri-Atroari: Observações Lingüísticas."
-Manaus: Programa Waimiri Atroari, Subprograma de Educação. ms.
+Manaus: Programa Waimiri Atroari, Subprograma de Educação. ms
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20lacerda1991waimiri.).
 
 
 
@@ -1818,8 +1849,14 @@ Leipzig: Fleischer.
 
 
 
-Mattéi-Müller, Marie Claude. 1975. "Vocabulario Básico de La Lengua
-Mapoya." *Antropológica* 42: 57--78.
+Mattéi-Müller, Marie Claude. 1975a. "La Diferenciacion Lingüistica
+Panare-Mapoya." *Antropológica* 42: 79--91.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20muller1975panmap.).
+
+
+
+---------. 1975b. "Vocabulario Básico de La Lengua Mapoya."
+*Antropológica* 42: 57--78.
 [Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20muller1975mapoyo.).
 
 
@@ -1848,6 +1885,7 @@ Grupo de Trabalho sobre Línguas Indígenas da ANPOLL
 ---------. 2003. "Pémono: Eslabón Perdido Entre Mapoyo y Yawarana,
 Lenguas Caribes Ergativas de La Guayana Noroccidental de Venezuela."
 *Amerindia*, no. 28: 33--54.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mattei2003pemono.).
 
 
 
@@ -1867,6 +1905,7 @@ in the author's possession.
 
 Mattéi-Müller, Marie-Claude, and Paul Henley. 1990. *Los Tamanaku: Su
 Lengua, Su Vida*. San Cristobal: Universidad Católica del Táchira.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20tamanakumuller1990.).
 
 
 
@@ -1915,6 +1954,7 @@ Marker -Pödï of Akawaio (Cariban) and Beyond," under review. ms
 
 Medina, Francia. 1997. "Introducción a La Fonética y a La Fonología
 Mapoyo (Caribe)." Master's thesis, Universidad Central de Venezuela.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20medina1997mapoyo.).
 
 
 
@@ -1944,6 +1984,7 @@ Mehinaku, Mutua, and Bruna Franchetto. 2014. "Tetsualü: The Pluralism of
 Languages and People in the Upper Xingu." In *Language Contact and
 Documentation / Contacto Lingüístico y Documentación*, edited by Bernard
 Comrie and Lucia Golluscio, 121--64. Berlin: Walter de Gruyter.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mehinaku2014xingu.).
 
 
 
@@ -2059,6 +2100,7 @@ Demonstratives." In *Demonstratives in Cross-Linguistic Perspective*,
 edited by Stephen C. Levinson, Sarah Cutfield, Michael J. Dunn, Nick
 Enfield, and Sérgio Meira, 222--41. Cambridge: Cambridge University
 Press.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2018demo.).
 
 
 
@@ -2260,11 +2302,13 @@ Demonstratives in Tiriyó and Lavukaleve." *Linguistics* 43 (6):
 
 Méndez-Arocha, Alberto. 1959. "Un Vocabulario Yabarana Con Apuntes
 Fonéticos." *Antropológica* 7: 65--84.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20mendez1959yawarana.).
 
 
 
 Migliazza, Ernesto C. 1965. "Notas Fonológicas Da Língua Tiriyó."
 *Boletim Do Museu Paraense Emílio Goeldi. Série Antropologia* 29: 1--13.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20migliazza1965trio.).
 
 
 
@@ -2828,12 +2872,14 @@ Janeiro.
 
 ---------. 2007. "Morfologia Kuikuro: Gerando Nomes e Verbos." PhD
 thesis, Universidade Federal do Rio de Janeiro.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20kuikurodossantos2007.).
 
 
 
 Santos, Gélsama Mara Ferreira dos. 2008. "As Classes Morfológicas
 Flexionais Da Língua Kuikuro." *Línguas Indígenas Americanas*, no. 8:
 105--20.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20santos2008flexionais.).
 
 
 
@@ -2887,6 +2933,7 @@ Characteristics." *International Journal of American Linguistics* 73
 Seiler-Baldinger, Annemarie, and Marie-Claude Mattéi-Müller. 2017. "Los
 Yawarana (Yabarana)." In *Los Aborígenes de Venezuela v*, edited by
 Miguel Ángel Perera and Pedro Rivas, 127--209. Caracas.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20seiler2017yawarana.).
 
 
 
@@ -2903,6 +2950,7 @@ Interpersonal Manipulation*. Amsterdam: John Benjamins.
 Silva, Glauber Romling da, and Bruna Franchetto. 2011. "Prosodic
 Distinctions Between the Varieties of the Upper-Xingu Carib Language:
 Results of an Acoustic Analysis." *Amerindia* 35: 41--52.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20silva2011prosodic.).
 
 
 
@@ -2921,6 +2969,7 @@ Languages of the World." Dallas, Texas: SIL International.
 Smoll, Laetitia. 2014. "Me: ɾuɾu, ɸoku and Tʃitowiʃ: An Analysis of
 Ideophones in Katuena (Tunayana)." Master's thesis, University of
 Leiden.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20smoll2014katuena.).
 
 
 
@@ -3096,6 +3145,7 @@ Formateca C.A.
 Villalón, María Eugenia. 2007. "Una Caracterización Del Sistema
 Consonántico de La Lengua Mapoyo y Propuesta Para Un Alfabeto Práctico."
 *Antropológica*, no. 107-108: 41--70.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20villalon2007consonants.).
 
 
 

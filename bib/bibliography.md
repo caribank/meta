@@ -6,6 +6,6 @@ nocite: '@*'
 
 * compiled by Florian Matter
 * obligatory references to @fabrecarib and @glottolog
-* spotted an error? know a missing source? [tell me more](https://github.com/caribank/meta/issues/new)
+* spotted an error? know a missing source? [tell us more](https://github.com/caribank/meta/issues/new)
 
 ## Sources
