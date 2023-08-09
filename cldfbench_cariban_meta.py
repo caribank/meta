@@ -142,7 +142,7 @@ class Dataset(BaseDataset):
         )
         args.writer.cldf.add_component("TreeTable")
         args.writer.cldf.add_component("MediaTable")
-        tree = load("data/tree.nwk").replace("\n", "").replace(" ", "")
+        tree = load("raw/tree.nwk").replace("\n", "").replace(" ", "")
         args.writer.objects['MediaTable'].append(dict(
                 ID="fm-tree",
                 Media_Type='text/x-nh',
