@@ -1,3 +1,7 @@
+.PHONY: cldf
+
+cldf: bench readme valid
+	
 all: bib bench readme valid map
 	
 bench:

@@ -4,6 +4,8 @@ from cldfbench import Dataset as BaseDataset
 from writio import load, dump
 import pybtex
 from pycldf.sources import Source
+from Bio import Phylo
+from io import StringIO
 
 
 import logging
@@ -11,7 +13,7 @@ import colorlog
 
 log = logging.getLogger(__name__)
 log.propagate = True
-log.setLevel(logging.INFO)
+log.setLevel(logging.DEBUG)
 handler = colorlog.StreamHandler(None)
 handler.setFormatter(
     colorlog.ColoredFormatter("%(log_color)s%(levelname)-7s%(reset)s %(message)s")
@@ -22,10 +24,6 @@ log.addHandler(handler)
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "cariban_meta"
-
-    def get_lg(self, lg_id):
-        lgs = pd.read_csv(self.cldf_dir / "languages.csv", keep_default_na=False)
-        return lgs[lgs["ID"] == lg_id].to_dict("records")[0]
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         from cldfbench import CLDFSpec
@@ -44,6 +42,42 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         from cldfbench.catalogs import pyglottolog, Glottolog
+
+        lgs = pd.read_csv(
+            "raw/cariban_language_list.csv",
+            dtype={"Latitude": "float", "Longitude": "float"},
+        )
+        lgs = lgs.fillna("")
+
+        def get_lg(lgid):
+            return lgs[lgs["ID"]==lgid].iloc[0]
+
+        def get_parent(tree, child_clade):
+            node_path = tree.get_path(child_clade)
+            return node_path[-2]
+
+        tree = load("raw/tree.nwk").replace("\n", "").replace(" ", "")
+        mod_tree = Phylo.read(
+            StringIO(tree),
+            format="newick",
+        )
+        stop = False
+        for item in mod_tree.get_terminals():
+            ldata = get_lg(item.name)
+            if ldata["Dialect_Of"]:
+                if stop:
+                    item.name = ldata["Dialect_Of"]
+                    stop = False
+                else:
+                    # log.debug(f"Pruning {item.name}")
+                    parent = get_parent(mod_tree, item)
+                    res = mod_tree.prune(item)
+                    if res != parent:
+                        stop = True
+        new_tree = StringIO()
+        Phylo.write(mod_tree, new_tree, plain=True, format="newick")
+        min_tree = new_tree.getvalue().strip("\n")
+        print(min_tree)
 
         glottolog = pyglottolog.Glottolog(Glottolog.from_config().repo.working_dir)
 
@@ -109,7 +143,7 @@ class Dataset(BaseDataset):
         )
         args.writer.cldf.add_component(
             {
-                "url": "DialectTable",
+                "url": "dialects.csv",
                 "tableSchema": {
                     "columns": [
                         {
@@ -142,7 +176,15 @@ class Dataset(BaseDataset):
         )
         args.writer.cldf.add_component("TreeTable")
         args.writer.cldf.add_component("MediaTable")
-        tree = load("raw/tree.nwk").replace("\n", "").replace(" ", "")
+
+
+        args.writer.objects['MediaTable'].append(dict(
+                ID="fm-tree-min",
+                Media_Type='text/x-nh',
+                Download_URL=f"data:text,{min_tree}",
+                Path_In_Zip=None
+            ))
+
         args.writer.objects['MediaTable'].append(dict(
                 ID="fm-tree",
                 Media_Type='text/x-nh',
@@ -161,27 +203,34 @@ class Dataset(BaseDataset):
             Source=None,
         ))
 
+        args.writer.objects['TreeTable'].append(dict(
+            ID="fm-tree-min",
+            Name="fm-tree-min",
+            Media_ID="fm-tree-min",
+            Tree_Is_Rooted=True,
+            # Tree_Type=type_,
+            Description="A relatively conservative tree based on shared innovations; dialects are not included.",
+            Tree_Branch_Length_Unit=None,
+            Source=None,
+        ))
+
         args.writer.cldf.add_foreign_key(
             "LanguageTable", "Dialect_Of", "LanguageTable", "ID"
         )
         args.writer.cldf.add_foreign_key(
-            "DialectTable", "Language_ID", "LanguageTable", "ID"
+            "dialects.csv", "Language_ID", "LanguageTable", "ID"
         )
         args.writer.cldf.add_foreign_key(
-            "DialectTable", "Dialect_ID", "LanguageTable", "ID"
+            "dialects.csv", "Dialect_ID", "LanguageTable", "ID"
         )
         sources = pybtex.database.parse_file("bib/sources.bib", bib_format="bibtex")
         sources = [Source.from_entry(k, e) for k, e in sources.entries.items()]
         args.writer.cldf.add_sources(*sources)
 
-        lgs = pd.read_csv(
-            "raw/cariban_language_list.csv",
-            dtype={"Latitude": "float", "Longitude": "float"},
-        )
         bool_dict = {"y": True, "n": False}
         for i, row in lgs.iterrows():
             lg_id = row["ID"]
-            log.debug(f"""Processing {lg_id}""")
+            # log.debug(f"""Processing {lg_id}""")
             # if not pd.isnull(row["Glottocode"]):
             #     lg = glottolog.languoid(row["Glottocode"])
             #     if not lg.longitude:
@@ -208,15 +257,15 @@ class Dataset(BaseDataset):
                 "Comment": row["Comment"],
                 "Proto_Language": (row["ID"][0] == "P"),
             }
-            if not pd.isnull(row["Alternative_Names"]):
+            if row["Alternative_Names"]:
                 log.info(
                     f"Alternative names for {lg_id}: "
                     + row["Alternative_Names"].replace("; ", ",")
                 )
                 lg_dic["Alternative_Names"] = row["Alternative_Names"].split("; ")
 
-            if not pd.isnull(row["Dialect_Of"]):
-                args.writer.objects["DialectTable"].append(
+            if row["Dialect_Of"]:
+                args.writer.objects["dialects.csv"].append(
                     {
                         "ID": lg_id + "-" + row["Dialect_Of"],
                         "Dialect_ID": lg_id,
@@ -242,7 +291,7 @@ class Dataset(BaseDataset):
             )
 
             for opt_col in ["Dialect_Of", "Latitude", "Longitude", "Glottocode"]:
-                if not pd.isnull(row[opt_col]):
+                if not row[opt_col]:
                     lg_dic[opt_col] = row[opt_col]
 
             args.writer.objects["LanguageTable"].append(lg_dic)

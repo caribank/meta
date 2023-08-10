@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-36-g7dab5e1",
+            "dc:created": "v0.0.5-37-g79d2f6f",
             "dc:title": "Repository"
         },
         {
@@ -341,11 +341,11 @@
                     "ID"
                 ]
             },
-            "url": "DialectTable"
+            "url": "dialects.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TreeTable",
-            "dc:extent": 1,
+            "dc:extent": 2,
             "tableSchema": {
                 "columns": [
                     {
@@ -432,7 +432,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 1,
+            "dc:extent": 2,
             "tableSchema": {
                 "columns": [
                     {
