@@ -24,7 +24,7 @@ car,Karijona,1.21894,-72.0664,cari1279,,,carijo,,true,false
 map,Mapoyo,5.96952,-67.2581,mapo1246,,,mapoyo,,true,false
 yab,Yawarana,5.32692,-66.276,yaba1248,,,yawarana,,true,false
 pan,Panare,6.95035,-65.8483,enap1235,,E'ñapa (Woromaipu),panare,,true,false
-mak,Ye'kwana,,,maqu1238,,Maquiritari,maqui,,true,false
+mak,Ye'kwana,4.70705,-64.3877,maqu1238,,Maquiritari,maqui,,true,false
 pem,Pemón,4.97031,-61.4033,pemo1248,,,pemon,,true,false
 kap,Kapong,6.16277,-60.862,kapo1251,,,kapon,,true,false
 wmr,Waimiri-Atroari,-0.61832,-60.4259,waim1253,,yawaperi; crichana?,waimiri,,true,false
@@ -38,9 +38,9 @@ apa,Apalaí,1.49792,-54.7457,apal1257,,,apalai,,true,false
 way,Wayana,2.77537,-54.4429,waya1269,,,wayana,,true,false
 ikp,Ikpeng,-11.37822,-53.49553,ikpe1245,,Txikão,ikpeng,,true,false
 ara,Arara,-3.71263,-53.0657,para1310,,,arara,,true,false
-kar,Kari'ña,,,gali1262,,Galibi,kalina,,true,false
+kar,Kari'ña,5.83772,-56.8323,gali1262,,Galibi,kalina,,true,false
 uxc,Upper Xingu Carib,,,nucl1656,,,uxc,,true,false
-bak,Bakairi,,,baka1277,,,bakairi,,true,false
+bak,Bakairi,-14.2628,-54.7034,baka1277,,,bakairi,,true,false
 hian,†Hianakoto-Umawa,1.21894,-72.0664,,,,hiana,car,false,false
 cha,†Chayma,9.21256,-63.1,chai1253,,,chayma,cum,false,false
 cgt,†Kumanagoto,10.21,-63.02,cuma1240,,,kumanagoto,cum,false,false

@@ -232,21 +232,22 @@ class Dataset(BaseDataset):
             lg_id = row["ID"]
             # input(row)
             # log.debug(f"""Processing {lg_id}""")
-            # if not pd.isnull(row["Glottocode"]):
-            #     lg = glottolog.languoid(row["Glottocode"])
-            #     if not lg.longitude:
-            #         log.debug(f"No glottocoords for {lg}, using own")
-            #     elif row["Latitude"] != lg.latitude or row["Longitude"] != lg.longitude:
-            #         log.warning(f"Coordinate mismatch for {lg}, using glottocoords")
-            #         print(row["Latitude"], lg.latitude)
-            #         print(row["Longitude"], lg.longitude)
-            #         row["Latitude"] = lg.latitude
-            #         row["Longitude"] = lg.longitude
-            #     elif (
-            #         row["Latitude"] == lg.latitude and row["Longitude"] == lg.longitude
-            #     ):
-            #         log.debug(f"Matching coords for {lg}")
-            #         pass
+            if row["Glottocode"] and not row["Latitude"]:
+                lg = glottolog.languoid(row["Glottocode"])
+                if lg.longitude:
+                    row["Latitude"] = lg.latitude
+                    row["Longitude"] = lg.longitude
+                # elif row["Latitude"] != lg.latitude or row["Longitude"] != lg.longitude:
+                #     log.warning(f"Coordinate mismatch for {lg}, using glottocoords")
+                #     print(row["Latitude"], lg.latitude)
+                #     print(row["Longitude"], lg.longitude)
+                #     row["Latitude"] = lg.latitude
+                #     row["Longitude"] = lg.longitude
+                # elif (
+                #     row["Latitude"] == lg.latitude and row["Longitude"] == lg.longitude
+                # ):
+                #     log.debug(f"Matching coords for {lg}")
+                #     pass
             alive = bool_dict[row["Alive"]]
             if not alive and not row["Name"].startswith("Proto"):
                 row["Name"] = "†" + row["Name"]
