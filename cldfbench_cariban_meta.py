@@ -204,7 +204,7 @@ class Dataset(BaseDataset):
 
         args.writer.objects['TreeTable'].append(dict(
             ID="fm-tree-min",
-            Name="2",
+            Name="1",
             Media_ID="fm-tree-min",
             Tree_Is_Rooted=True,
             # Tree_Type=type_,
