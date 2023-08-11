@@ -77,7 +77,6 @@ class Dataset(BaseDataset):
         new_tree = StringIO()
         Phylo.write(mod_tree, new_tree, plain=True, format="newick")
         min_tree = new_tree.getvalue().strip("\n")
-        print(min_tree)
 
         glottolog = pyglottolog.Glottolog(Glottolog.from_config().repo.working_dir)
 
@@ -194,7 +193,7 @@ class Dataset(BaseDataset):
 
         args.writer.objects['TreeTable'].append(dict(
             ID="fm-tree",
-            Name="fm-tree",
+            Name="1",
             Media_ID="fm-tree",
             Tree_Is_Rooted=True,
             # Tree_Type=type_,
@@ -205,7 +204,7 @@ class Dataset(BaseDataset):
 
         args.writer.objects['TreeTable'].append(dict(
             ID="fm-tree-min",
-            Name="fm-tree-min",
+            Name="2",
             Media_ID="fm-tree-min",
             Tree_Is_Rooted=True,
             # Tree_Type=type_,
