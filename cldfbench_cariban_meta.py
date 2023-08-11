@@ -230,6 +230,7 @@ class Dataset(BaseDataset):
         bool_dict = {"y": True, "n": False}
         for i, row in lgs.iterrows():
             lg_id = row["ID"]
+            # input(row)
             # log.debug(f"""Processing {lg_id}""")
             # if not pd.isnull(row["Glottocode"]):
             #     lg = glottolog.languoid(row["Glottocode"])
@@ -291,7 +292,7 @@ class Dataset(BaseDataset):
             )
 
             for opt_col in ["Dialect_Of", "Latitude", "Longitude", "Glottocode"]:
-                if not row[opt_col]:
+                if row[opt_col]:
                     lg_dic[opt_col] = row[opt_col]
 
             args.writer.objects["LanguageTable"].append(lg_dic)

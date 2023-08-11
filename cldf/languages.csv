@@ -1,94 +1,94 @@
 ID,Name,Latitude,Longitude,Glottocode,IPA,Alternative_Names,Shorthand,Dialect_Of,Alive,Proto_Language
-wbak,Western Bakairi,,,,,,wbakairi,,true,false
-ebak,Eastern Bakairi,,,,,,ebakairi,,true,false
-ing,Ingarikó,,,,,,ingariko,,true,false
-aka,Akawaio,,,,,,akawaio,,true,false
-pat,Patamona,,,,,,patamona,,true,false
-tab,Tabajari,,,,,Venezuelan Carib,tabajari,,true,false
-gkar,Guianese Carib,,,,,,gkar,,true,false
-aty,Aretyry,,,,,Western Surinamese Carib; Murato,aretyry,,true,false
-tyr,Tyrewuju,,,,,Eastern Surinamese Carib,tyrewuju,,true,false
-siku,Sikiana,,,,,Shikuyana; Sikiana,sikiana,,true,false
-dek,De’kwana,,,,,,dekwana,,true,false
-dhe,Dhe’kwana,,,,,,dhekwana,,true,false
-kam,Kamarakoto,,,,,,kamara,,true,false
-tau,Taulipang,,,,,,tauli,,true,false
-are,Arekuna,,,,,,arekuna,,true,false
-nah,Nahukwa,,,,,,nahukwa,,true,false
-kui,Kuikuro,,,,,,kuikuro,,true,false
-mat,Matipu,,,,,,matipu,,true,false
-kal,Kalapalo,,,,,,kalapalo,,true,false
-yuk,Yukpa,,,,,,yukpa,,true,false
-jap,Japreria,,,,,,japreria,,true,false
-car,Karijona,,,,,,carijo,,true,false
-map,Mapoyo,,,,,,mapoyo,,true,false
-yab,Yawarana,,,,,,yawarana,,true,false
-pan,Panare,,,,,E'ñapa (Woromaipu),panare,,true,false
-mak,Ye'kwana,,,,,Maquiritari,maqui,,true,false
-pem,Pemón,,,,,,pemon,,true,false
-kap,Kapong,,,,,,kapon,,true,false
-wmr,Waimiri-Atroari,,,,,yawaperi; crichana?,waimiri,,true,false
-mac,Macushi,,,,,,macushi,,true,false
-wai,Waiwai,,,,,,waiwai,,true,false
-hix,Hixkaryána,,,,,,hixka,,true,false
-kax,Werikyana,,,,,Katxuyana,kaxui,,true,false
-tri,Tiriyó,,,,,,trio,,true,false
-aku,Akuriyó,,,,,Wama,akuriyo,,true,false
-apa,Apalaí,,,,,,apalai,,true,false
-way,Wayana,,,,,,wayana,,true,false
-ikp,Ikpeng,,,,,Txikão,ikpeng,,true,false
-ara,Arara,,,,,,arara,,true,false
-kar,Kari'ña,,,,,Galibi,kalina,,true,false
-uxc,Upper Xingu Carib,,,,,,uxc,,true,false
-bak,Bakairi,,,,,,bakairi,,true,false
-hian,†Hianakoto-Umawa,,,,,,hiana,,false,false
-cha,†Chayma,,,,,,chayma,,false,false
-cgt,†Kumanagoto,,,,,,kumanagoto,,false,false
-arin,†Arinakoto,,,,,,arina,,false,false
-salu,†Salumá,,,,,,saluma,,false,false
-uruk,†Urukuena,,,,,,urukue,,false,false
-waya,†Wayakulé,,,,,Triometesem,wayakule,,false,false
-pian,†Pianakoto,,,,,,pianakoto,,false,false
-kuma,†Kumayena,,,,,,kumayena,,false,false
-paru,†Parukoto,,,,,,parukoto,,false,false
-jawa,†Jawaperi,,,,,,yawaperi,,false,false
-mcta,†Macoita,,,,,,macoita,,false,false
-maco,†Macoa,,,,,,macoa,,false,false
-chak,†Chake,,,,,,chake,,false,false
-koya,†Koyaima,,,,,,koyaima,,false,false
-opon,†Opón-Carare,,,,,,opon,,false,false
-guak,†Guake,,,,,,guake,,false,false
-pno,†Pémono,,,,,,pemono,,false,false
-piri,†Píritu,,,,,,piritu,,false,false
-tam,†Tamanaku,,,,,,tamanaku,,false,false
-pale,†Palenque,,,,,,palenque,,false,false
-avar,†Avarikoto,,,,,,avarikoto,,false,false
-cum,†Kumaná,,,,,,kumana,,false,false
-palm,†Palmela,,,,,,palmela,,false,false
-pxan,†Pauxiana,,,,,,pauxiana,,false,false
-tive,†Tiverighotto,,,,,,tiveri,,false,false
-puru,†Purukoto,,,,,,purukoto,,false,false
-sapa,†Sapara,,,,,,sapara,,false,false
-yao,†Yao,,,,,Yebarana,yao,,false,false
-wayu,†Wayumara,,,,,,wayu,,false,false
-juma,†Juma,,,,,,juma,,false,false
-para,†Paravilhana,,,,,,paravi,,false,false
-cric,†Crichana,,,,,,crichana,,false,false
-bona,†Bonari,,,,,,bonari,,false,false
-paux,†Pauxi,,,,,,pauxi,,false,false
-yaru,†Yarumá,,,,,,yaruma,,false,false
-arak,†Arakaju,,,,,,arakaju,,false,false
-apia,†Apiaka-Tocantins,,,,,,apiaka,,false,false
-pime,†Pimenteira,,,,,,piment,,false,false
-PC,Proto-Cariban,,,,,,PC,,false,true
-PPar,Proto-Parukotoan,,,,,,PPar,,false,true
-PWai,Proto-Waiwaian,,,,,,PWai,,false,true
-PPek,Proto-Pekodian,,,,,,PPek,,false,true
-PXin,Proto-Xinguan,,,,,,PXin,,false,true
-PPP,Proto-Pemong-Panare,,,,,,PPP,,false,true
-PPem,Proto-Pemongan,,,,,,PPem,,false,true
-PTar,Proto-Taranoan,,,,,,PTar,,false,true
-PTir,Proto-Tiriyoan,,,,,,PTir,,false,true
-PMan,Proto-Manapiarean,,,,,,PMan,,false,true
-PVen,Proto-Venezuelan,,,,,,PVen,,false,true
-PCum,Proto-Cumana,,,,,,PCum,,false,true
+wbak,Western Bakairi,-14.163292,-55.463912,,,,wbakairi,bak,true,false
+ebak,Eastern Bakairi,-14.301823,-54.625822,,,,ebakairi,bak,true,false
+ing,Ingarikó,6.16277,-60.862,inga1250,,,ingariko,kap,true,false
+aka,Akawaio,6.16,-60.86,akaw1239,,,akawaio,kap,true,false
+pat,Patamona,4.76,-59.58,pata1262,,,patamona,kap,true,false
+tab,Tabajari,9.084793,-64.317835,taba1267,,Venezuelan Carib,tabajari,kar,true,false
+gkar,Guianese Carib,7.059752,-60.239822,,,,gkar,kar,true,false
+aty,Aretyry,5.341971,-56.353558,mura1272,,Western Surinamese Carib; Murato,aretyry,kar,true,false
+tyr,Tyrewuju,5.707015,-54.014828,tyre1237,,Eastern Surinamese Carib,tyrewuju,kar,true,false
+siku,Sikiana,3.01,-57.92,siki1239,,Shikuyana; Sikiana,sikiana,kax,true,false
+dek,De’kwana,,,,,,dekwana,mak,true,false
+dhe,Dhe’kwana,,,,,,dhekwana,mak,true,false
+kam,Kamarakoto,5.6014065,-62.71231,cama1252,,,kamara,pem,true,false
+tau,Taulipang,4.97031,-62.0,taul1252,,,tauli,pem,true,false
+are,Arekuna,5.0,-61.4033,arec1238,,,arekuna,pem,true,false
+nah,Nahukwa,-12.103217,-53.294949,nahu1343,,,nahukwa,uxc,true,false
+kui,Kuikuro,-12.351506,-53.209209,,,,kuikuro,uxc,true,false
+mat,Matipu,-12.23117,-53.186218,nucl1657,,,matipu,uxc,true,false
+kal,Kalapalo,-12.598618,-52.923844,,,,kalapalo,uxc,true,false
+yuk,Yukpa,9.67534,-73.0557,yukp1241,,,yukpa,,true,false
+jap,Japreria,10.5523,-72.7101,japr1238,,,japreria,,true,false
+car,Karijona,1.21894,-72.0664,cari1279,,,carijo,,true,false
+map,Mapoyo,5.96952,-67.2581,mapo1246,,,mapoyo,,true,false
+yab,Yawarana,5.32692,-66.276,yaba1248,,,yawarana,,true,false
+pan,Panare,6.95035,-65.8483,enap1235,,E'ñapa (Woromaipu),panare,,true,false
+mak,Ye'kwana,,,maqu1238,,Maquiritari,maqui,,true,false
+pem,Pemón,4.97031,-61.4033,pemo1248,,,pemon,,true,false
+kap,Kapong,6.16277,-60.862,kapo1251,,,kapon,,true,false
+wmr,Waimiri-Atroari,-0.61832,-60.4259,waim1253,,yawaperi; crichana?,waimiri,,true,false
+mac,Macushi,4.31861,-60.2209,macu1259,,,macushi,,true,false
+wai,Waiwai,1.50881,-59.1417,waiw1244,,,waiwai,,true,false
+hix,Hixkaryána,-0.16265,-58.80153,hixk1239,,,hixka,,true,false
+kax,Werikyana,2.17138,-55.9101,kaxu1237,,Katxuyana,kaxui,,true,false
+tri,Tiriyó,2.53616,-55.7599,trio1238,,,trio,,true,false
+aku,Akuriyó,3.19607,-55.6294,akur1238,,Wama,akuriyo,,true,false
+apa,Apalaí,1.49792,-54.7457,apal1257,,,apalai,,true,false
+way,Wayana,2.77537,-54.4429,waya1269,,,wayana,,true,false
+ikp,Ikpeng,-11.37822,-53.49553,ikpe1245,,Txikão,ikpeng,,true,false
+ara,Arara,-3.71263,-53.0657,para1310,,,arara,,true,false
+kar,Kari'ña,,,gali1262,,Galibi,kalina,,true,false
+uxc,Upper Xingu Carib,,,nucl1656,,,uxc,,true,false
+bak,Bakairi,,,baka1277,,,bakairi,,true,false
+hian,†Hianakoto-Umawa,1.21894,-72.0664,,,,hiana,car,false,false
+cha,†Chayma,9.21256,-63.1,chai1253,,,chayma,cum,false,false
+cgt,†Kumanagoto,10.21,-63.02,cuma1240,,,kumanagoto,cum,false,false
+arin,†Arinakoto,,,,,,arina,pem,false,false
+salu,†Salumá,1.75,-56.51,salu1254,,,saluma,tri,false,false
+uruk,†Urukuena,2.7984202,-54.35032,,,,urukue,tri,false,false
+waya,†Wayakulé,3.2176412,-53.40764,,,Triometesem,wayakule,tri,false,false
+pian,†Pianakoto,,,,,,pianakoto,tri,false,false
+kuma,†Kumayena,,,,,,kumayena,tri,false,false
+paru,†Parukoto,1.2913186,-56.69205,,,,parukoto,wai,false,false
+jawa,†Jawaperi,-0.61832,-60.4259,jawa1240,,,yawaperi,wmr,false,false
+mcta,†Macoita,9.67534,-73.0557,,,,macoita,yuk,false,false
+maco,†Macoa,9.67534,-73.0557,,,,macoa,yuk,false,false
+chak,†Chake,9.67534,-73.0557,,,,chake,yuk,false,false
+koya,†Koyaima,9.0,-76.0,,,,koyaima,,false,false
+opon,†Opón-Carare,6.6993472,-73.62266,opon1234,,,opon,,false,false
+guak,†Guake,1.0,-72.08,,,,guake,,false,false
+pno,†Pémono,5.248,-66.082,pemo1245,,,pemono,,false,false
+piri,†Píritu,9.9467688,-66.02333,,,,piritu,,false,false
+tam,†Tamanaku,2.765,-65.883,tama1338,,,tamanaku,,false,false
+pale,†Palenque,8.8387087,-65.49599,,,,palenque,,false,false
+avar,†Avarikoto,9.21,-63.1,,,,avarikoto,,false,false
+cum,†Kumaná,10.209,-63.018,coas1302,,,kumana,,false,false
+palm,†Palmela,-13.0,-62.8,palm1241,,,palmela,,false,false
+pxan,†Pauxiana,1.45,-62.52,paux1236,,,pauxiana,,false,false
+tive,†Tiverighotto,10.102185,-62.51541,tive1236,,,tiveri,,false,false
+puru,†Purukoto,3.4489861,-61.69889,,,,purukoto,,false,false
+sapa,†Sapara,3.433437,-61.58054,sapa1254,,,sapara,,false,false
+yao,†Yao,10.171563,-61.43483,yaoa1239,,Yebarana,yao,,false,false
+wayu,†Wayumara,3.133111,-61.21079,wayu1242,,,wayu,,false,false
+juma,†Juma,-5.0,-61.0,,,,juma,,false,false
+para,†Paravilhana,3.12,-60.48,para1309,,,paravi,,false,false
+cric,†Crichana,-0.61832,-60.4259,,,,crichana,,false,false
+bona,†Bonari,-2.0,-58.0,bona1255,,,bonari,,false,false
+paux,†Pauxi,-1.690001,-55.55878,paux1235,,,pauxi,,false,false
+yaru,†Yarumá,-11.6333,-52.8,yaru1255,,,yaruma,,false,false
+arak,†Arakaju,-4.0,-52.0,,,,arakaju,,false,false
+apia,†Apiaka-Tocantins,-6.5,-49.77173,apia1247,,,apiaka,,false,false
+pime,†Pimenteira,-10.0,-42.5,pime1237,,,piment,,false,false
+PC,Proto-Cariban,,,cari1283,,,PC,,false,true
+PPar,Proto-Parukotoan,,,paru1239,,,PPar,,false,true
+PWai,Proto-Waiwaian,,,waiw1245,,,PWai,,false,true
+PPek,Proto-Pekodian,,,peko1235,,,PPek,,false,true
+PXin,Proto-Xinguan,,,xing1247,,,PXin,,false,true
+PPP,Proto-Pemong-Panare,,,pemo1246,,,PPP,,false,true
+PPem,Proto-Pemongan,,,pemo1247,,,PPem,,false,true
+PTar,Proto-Taranoan,,,tara1324,,,PTar,,false,true
+PTir,Proto-Tiriyoan,,,tiri1260,,,PTir,,false,true
+PMan,Proto-Manapiarean,,,mapo1245,,,PMan,,false,true
+PVen,Proto-Venezuelan,,,vene1261,,,PVen,,false,true
+PCum,Proto-Cumana,,,coas1302,,,PCum,,false,true

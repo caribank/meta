@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-37-g79d2f6f",
+            "dc:created": "v0.0.5-39-ge281372",
             "dc:title": "Repository"
         },
         {
