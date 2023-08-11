@@ -1338,10 +1338,10 @@ New Look at Some Historical and Typological Patterns." *Linguistics* 54
 
 
 
-Gilij, Filippo Salvadore. 1780\--1784. *Saggio Di Storia Americana, o
-Sia Storia Naturale, Civile, e Sacra de Regni, e Delle Provincie
-Spagnuole Di Terra-Ferma Nell' America Meridionale*. 4 vols. Rome: Luigi
-Perego Salvioni.
+Gilij, Filippo Salvadore. 1780. *Saggio Di Storia Americana, o Sia
+Storia Naturale, Civile, e Sacra de Regni, e Delle Provincie Spagnuole
+Di Terra-Ferma Nell' America Meridionale*. 4 vols. Rome: Luigi Perego
+Salvioni.
 
 
 
@@ -1791,6 +1791,12 @@ Educação. ms.
 
 
 
+Landaburu, Jon, ed. 1996. *Documentos Sobre Lenguas Aborígenes de
+Colombia Del Archivo de Paul Rivet, Vol.1. Lenguas de La Amazonía
+Colombiana*. Santafé de Bogotá: Uniandes / CCELA / COLCIENCIAS.
+
+
+
 Largo, Wilson S. 2011. "Una Gramática Yukpa." Bogotá: Fundación para el
 Desarrollo de Pueblos Marginados. ms
 [Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20largo2011yukpa.).
@@ -1909,12 +1915,7 @@ Lengua, Su Vida*. San Cristobal: Universidad Católica del Táchira.
 
 
 
-Matter, Florian. 2021-01. "Modified Swadesh-100 List of 23 Cariban
-Languages." Zenodo. <https://doi.org/10.5281/zenodo.4438189>.
-
-
-
----------. 2020. "Comparative Cariban Database."
+Matter, Florian. 2020. "Comparative Cariban Database."
 <https://cariban.clld.org>.
 
 
@@ -1924,7 +1925,12 @@ Argument Marking." PhD thesis, University of Bern.
 
 
 
----------. 2021b. "The Origin of Split Third Person Marking in Arara
+---------. 2021b. "Modified Swadesh-100 List of 23 Cariban Languages."
+Zenodo. <https://doi.org/10.5281/zenodo.4438189>.
+
+
+
+---------. 2021c. "The Origin of Split Third Person Marking in Arara
 (Cariban)." *Cadernos de Etnolingüística* 8 (2): 1--22.
 <http://www.etnolinguistica.org/article:vol8n2-1>.
 
@@ -2718,6 +2724,15 @@ and Marcel Cohen, 1st ed., 639--712. Paris: Champion.
 Rivet, Paul, and Čestmír Loukotka. 1952. "Langues de l'amérique Du Sud
 Et Des Antilles." In *Les Langues Du Monde*, edited by Antoine Meillet
 and Marcel Cohen, 2nd ed., 1067--97. Paris: Champion.
+
+
+
+Robayo, Camilo. 1996. "Datos Actuales de La Lengua Carijona,
+Equivalentes Al Documento de Wavrin Donde Usa El Cuestionario Llamado
+\"Vocabulario Personal\"." In *Documentos Sobre Lenguas Aborígenes de
+Colombia Del Archivo de Paul Rivet, Vol.1. Lenguas de La Amazonía
+Colombiana*, edited by Jon Landaburu, 517--20. Santafé de Bogotá:
+Uniandes / CCELA / COLCIENCIAS.
 
 
 

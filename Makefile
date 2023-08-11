@@ -26,7 +26,7 @@ bibload:
 
 bibrun:
 	pandoc --pdf-engine=xelatex -o bib/bibliography.pdf bib/bibliography.md --bibliography bib/sources.bib --citeproc
-	pandoc -o bib/README.md bib/bibliography.md --bibliography bib/sources_bib.bib --citeproc -t markdown-citations --csl etc/chicago-author-date-mod.csl
+	pandoc -o bib/README.md bib/bibliography.md --bibliography bib/sources_web.bib --citeproc -t markdown-citations --csl etc/chicago-author-date-mod.csl
 	perl -pi -e 's/::: {.*? .csl-entry}//g' bib/README.md
 	perl -pi -e 's/::://g' bib/README.md
 	perl -pi -e 's/{#refs .references .csl-bib-body .hanging-indent}//g' bib/README.md
