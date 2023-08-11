@@ -2612,6 +2612,12 @@ Fornaguera, 191--203. Bogotá: Editorial ABC.
 
 
 
+Pinto De Faria Junior, Geraldo. 2022. "A Grammar of the Bakairi
+Language." PhD thesis, Vrije Universiteit Amsterdam.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20pinto2022bakairi.).
+
+
+
 Price, Jana. 1984. *Estudio Sobre El Sistema de Sonidos Del Idioma
 Panare.* Caracas: UCAB.
 
