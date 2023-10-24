@@ -74,7 +74,7 @@ uritemplate==4.1.1
 urllib3==1.26.16
 wcwidth==0.2.6
 webencodings==0.5.1
--e git+ssh://git@github.com/fmatter/writio.git@0be462ed05cdad593a79e848d1bbf6930986d89b#egg=writio
+-e git+ssh://git@github.com/fmatter/writio.git@9b7c902685f4e2150db5e508234c241d443a0537#egg=writio
 xlrd==2.0.1
 yattag==1.15.1
 zenodoclient==0.5.0

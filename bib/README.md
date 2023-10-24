@@ -7,7 +7,7 @@
 
 ## Sources 
 
- 
+ {#refs .references .csl-bib-body .hanging-indent entry-spacing="0"}
 
 Abbott, Miriam. 1976. "Estrutura Oracional Da Língua Makuxi." *Série
 Lingüística* 5: 231--66.
@@ -373,6 +373,12 @@ Lyon 2.
 
 ---------. 2015. "Construcciones Basadas En El Nominalizador Absolutivo
 \*Tjapô." Lyon. Paper presented at the Venezuelan Cariban Conference.
+
+
+
+---------. 2016. "Nominal Negation in Cariban." Universidad Nacional de
+Colombia, Leticia, Colombia. Presentation given at Estructura de las
+Lenguas Amazónicas VI.
 
 
 
