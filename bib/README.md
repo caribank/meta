@@ -378,7 +378,8 @@ Lyon 2.
 
 ---------. 2016. "Nominal Negation in Cariban." Universidad Nacional de
 Colombia, Leticia, Colombia. Presentation given at Estructura de las
-Lenguas Amazónicas VI.
+Lenguas Amazónicas VI
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20caceres2016negation.).
 
 
 
@@ -667,6 +668,7 @@ Crevels, Mily. 2012. "Language Endangerment in South America: The Clock
 Is Ticking." In *The Indigenous Languages of South America*, edited by
 Lyle Campbell and Verónica Grondona, 2:167--233. The World of
 Linguistics. Berlin/New York: Mouton de Gruyter.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20crevels2012endangerment.).
 
 
 
@@ -765,6 +767,7 @@ Linguistics, University of North Dakota Session*, 35:1--30.
 ---------. 1999. "Carib." In *The Amazonian Languages*, edited by R. M.
 W. Dixon and Alexandra Y. Aikhenvald, 23--64. Cambridge: Cambridge
 University Press.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20derbyshire1999carib.).
 
 
 
@@ -820,6 +823,7 @@ Povos Indígenas no Brasil, Instituto Socioambiental.
 
 Douglas, Jordan A. G. 2019. "A Formal and Semantic Reconstruction of
 Cariban Postpositions." Bachelor's thesis, University of Oregon.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20douglas2019formal.).
 
 
 
@@ -1091,7 +1095,8 @@ Association, 99--116. Amherst: University of Massachusetts.
 
 Franchetto, Bruna, and Sérgio Meira. 2016. "A Phonological Hypothesis on
 the Historical Origin of Kuikuro and Bakairi Verb Classes." Universidad
-Nacional de Colombia en Amazonia, Leticia. Talk held at Amazónicas VI.
+Nacional de Colombia en Amazonia, Leticia. Talk held at Amazónicas VI
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20franchetto2016classes.).
 
 
 
@@ -1189,6 +1194,7 @@ Etnolingüísticos* 8: 163--77.
 ---------. 1995. "A Comparative Description of Syllable Reduction in the
 Cariban Language Family." *International Journal of American
 Linguistics* 61 (1): 62--102.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea1995reduction.).
 
 
 
@@ -1252,6 +1258,7 @@ Family." *Amerindia*, no. 28: 7--32.
 ---------. 2005. "Carib and Cariban Languages." In *Encyclopedia of
 Linguistics*, edited by Philipp Strazny, 1:173--76. New York: Fitzroy
 Dearborn.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea2005encyclo.).
 
 
 
@@ -1270,6 +1277,7 @@ the Association for Linguistic Typology, UC Berkeley.
 Indigenous Languages of South America*, edited by Lyle Campbell and
 Verónica Grondona, 2:441--94. The World of Linguistics. Berlin/New York:
 Mouton de Gruyter.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea2012classification.).
 
 
 
@@ -1284,7 +1292,8 @@ Languages.
 ---------. 2015b. "The Evolution of Valence Categories in the Cariban
 Family." Lyon.
 [https://www.academia.edu/30561539/The\\\\\_evolution\\\\\_of\\\\\_valence\\\\\_categories\\\\\_in\\\\\_the\\\\\_Cariban\\\\\_family](https://www.academia.edu/30561539/The\\_evolution\\_of\\_valence\\_categories\\_in\\_the\\_Cariban\\_family).
-Paper presented at the Venezuelan Cariban Conference.
+Paper presented at the Venezuelan Cariban Conference
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea2015valency.).
 
 
 
@@ -1323,7 +1332,8 @@ Mulder, and Daisy Rosenblum, 91--123. University of Hawai'i Press.
 
 Gildea, Spike, and Sérgio Meira. 2016. "A Comparative Survey of Verbal
 Negation in the Cariban Family." Universidad Nacional de Colombia en
-Amazonia, Leticia. Talk held at Amazónicas VI.
+Amazonia, Leticia. Talk held at Amazónicas VI
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea2016negation.).
 
 
 
@@ -1335,12 +1345,14 @@ Viable?" *Boletim Do Museu Paraense Emílio Goeldi. Ciências Humanas* 2
 
 Gildea, Spike, and Francesc Queixalós, eds. 2010. *Ergativity in
 Amazonia*. Amsterdam: John Benjamins.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea2010ergativity.).
 
 
 
 Gildea, Spike, and Fernando Zúñiga. 2016. "Referential Hierarchies: A
 New Look at Some Historical and Typological Patterns." *Linguistics* 54
 (3): 483--529.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20gildea2016referential.).
 
 
 
@@ -2077,6 +2089,7 @@ Tiriyo (Caribe): Une Étude de Corpus." *Amerindia*, no. 28: 183--200.
 
 ---------. 2006a. "A Família Linguística Caribe (Karíb)." *Revista de
 Estudos e Pesquisas* 3 (1/2): 157--74.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2006familia.).
 
 
 
@@ -2089,6 +2102,7 @@ Press.
 
 ---------. 2006c. "Cariban Languages." In *Encyclopedia of Language and
 Linguistics*, edited by Keith Brown, 199--203. Oxford: Elsevier.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2006cariban.).
 
 
 
@@ -2296,6 +2310,7 @@ Linguistics* 71 (2): 127--92.
 Meira, Sérgio, and Spike Gildea. 2009. "Property Concepts in the Cariban
 Family: Adjectives, Adverbs, and/or Nouns." In *The Linguistics of
 Endangered Languages*, edited by W. Leo Wetzels, 95--133. Utrecht: LOT.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20meira2009property.).
 
 
 
@@ -2334,6 +2349,7 @@ Moore, D. 2006. "Brazil: Language Situation." In *Encyclopedia of
 Language and Linguistics*, edited by Keith Brown, Anne Anderson, Laurie
 Bauer, Margie Berns, Jim Miller, and Graeme Hirst, 1:117--28. Amsterdam:
 Elsevier.
+[Request PDF](mailto:caribanresources@gmail.com?subject=I%20would%20like%20to%20read%20moore2006brazil.).
 
 
 
