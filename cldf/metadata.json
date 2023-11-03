@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-48-gd4b5774",
+            "dc:created": "v0.0.5-50-g9177323",
             "dc:title": "Repository"
         },
         {
@@ -27,7 +27,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.13"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
