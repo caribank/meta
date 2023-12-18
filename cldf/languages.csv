@@ -12,6 +12,7 @@ siku,Sikiana,3.01,-57.92,siki1239,,Shikuyana; Sikiana,sikiana,kax,true,false
 dek,De’kwana,,,,,,dekwana,mak,true,false
 dhe,Dhe’kwana,,,,,,dhekwana,mak,true,false
 kam,Kamarakoto,5.6014065,-62.71231,cama1252,,,kamara,pem,true,false
+yek,Ye'kwana (dialect),4.71,-64.39,,,,yekwana,mak,true,false
 tau,Taulipang,4.97031,-62.0,taul1252,,,tauli,pem,true,false
 are,Arekuna,5.0,-61.4033,arec1238,,,arekuna,pem,true,false
 nah,Nahukwa,-12.103217,-53.294949,nahu1343,,,nahukwa,uxc,true,false
@@ -26,7 +27,7 @@ yab,Yawarana,5.32692,-66.276,yaba1248,,,yawarana,,true,false
 pan,Panare,6.95035,-65.8483,enap1235,,E'ñapa (Woromaipu),panare,,true,false
 mak,Ye'kwana,4.70705,-64.3877,maqu1238,,Maquiritari,maqui,,true,false
 pem,Pemón,4.97031,-61.4033,pemo1248,,,pemon,,true,false
-kap,Kapong,6.16277,-60.862,kapo1251,,,kapon,,true,false
+kap,Kapong,,,kapo1251,,,kapon,,true,false
 wmr,Waimiri-Atroari,-0.61832,-60.4259,waim1253,,yawaperi; crichana?,waimiri,,true,false
 mac,Macushi,4.31861,-60.2209,macu1259,,,macushi,,true,false
 wai,Waiwai,1.50881,-59.1417,waiw1244,,,waiwai,,true,false
@@ -43,7 +44,7 @@ uxc,Upper Xingu Carib,,,nucl1656,,,uxc,,true,false
 bak,Bakairi,-14.2628,-54.7034,baka1277,,,bakairi,,true,false
 hian,†Hianakoto-Umawa,1.21894,-72.0664,,,,hiana,car,false,false
 cha,†Chayma,9.21256,-63.1,chai1253,,,chayma,cum,false,false
-cgt,†Kumanagoto,10.21,-63.02,cuma1240,,,kumanagoto,cum,false,false
+cum,†Kumanagoto,10.21,-63.02,cuma1240,,,kumanagoto,cum,false,false
 arin,†Arinakoto,,,,,,arina,pem,false,false
 salu,†Salumá,1.75,-56.51,salu1254,,,saluma,tri,false,false
 uruk,†Urukuena,2.7984202,-54.35032,,,,urukue,tri,false,false
@@ -63,7 +64,6 @@ piri,†Píritu,9.9467688,-66.02333,,,,piritu,,false,false
 tam,†Tamanaku,2.765,-65.883,tama1338,,,tamanaku,,false,false
 pale,†Palenque,8.8387087,-65.49599,,,,palenque,,false,false
 avar,†Avarikoto,9.21,-63.1,,,,avarikoto,,false,false
-cum,†Kumaná,10.209,-63.018,coas1302,,,kumana,,false,false
 palm,†Palmela,-13.0,-62.8,palm1241,,,palmela,,false,false
 pxan,†Pauxiana,1.45,-62.52,paux1236,,,pauxiana,,false,false
 tive,†Tiverighotto,10.102185,-62.51541,tive1236,,,tiveri,,false,false
@@ -92,3 +92,4 @@ PTir,Proto-Tiriyoan,,,tiri1260,,,PTir,,false,true
 PMan,Proto-Manapiarean,,,mapo1245,,,PMan,,false,true
 PVen,Proto-Venezuelan,,,vene1261,,,PVen,,false,true
 PCum,Proto-Cumana,,,coas1302,,,PCum,,false,true
+PYuk,Proto-Yukpan,,,yukp1243,,,PYuk,,false,true

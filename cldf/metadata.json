@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-50-g9177323",
+            "dc:created": "v0.0.5-52-ga51aafd",
             "dc:title": "Repository"
         },
         {
@@ -39,7 +39,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 186,
+            "dc:extent": 188,
             "tableSchema": {
                 "columns": [
                     {
@@ -129,7 +129,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 93,
+            "dc:extent": 94,
             "tableSchema": {
                 "columns": [
                     {
@@ -285,7 +285,7 @@
             "url": "parameters.csv"
         },
         {
-            "dc:extent": 33,
+            "dc:extent": 34,
             "tableSchema": {
                 "columns": [
                     {

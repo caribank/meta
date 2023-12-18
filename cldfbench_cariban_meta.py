@@ -77,7 +77,7 @@ class Dataset(BaseDataset):
         new_tree = StringIO()
         Phylo.write(mod_tree, new_tree, plain=True, format="newick")
         min_tree = new_tree.getvalue().strip("\n")
-
+        dump(min_tree, "etc/min_tree.nwk")
         glottolog = pyglottolog.Glottolog(Glottolog.from_config().repo.working_dir)
 
         args.writer.cldf.add_component("LanguageTable")

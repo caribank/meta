@@ -12,6 +12,7 @@
 "dek",,"dekwana","De’kwana",,,"y",,,"mak",
 "dhe",,"dhekwana","Dhe’kwana",,,"y",,,"mak",
 "kam","cama1252","kamara","Kamarakoto",-62.71231,5.6014065,"y",,,"pem",
+"yek",,"yekwana","Ye'kwana (dialect)",-64.39,4.71,"y",,,"mak",
 "tau","taul1252","tauli","Taulipang",-62,4.97031,"y",,,"pem",
 "are","arec1238","arekuna","Arekuna",-61.4033,5,"y",,,"pem",
 "nah","nahu1343","nahukwa","Nahukwa",-53.294949,-12.103217,"y",,,"uxc",
@@ -25,8 +26,8 @@
 "yab","yaba1248","yawarana","Yawarana",-66.276,5.32692,"y",,,,"yar"
 "pan","enap1235","panare","Panare",-65.8483,6.95035,"y","E'ñapa (Woromaipu)",,,"pbh"
 "mak","maqu1238","maqui","Ye'kwana",,,"y","Maquiritari",,,"mch"
-"pem","pemo1248","pemon","Pemón",-61.4033,4.97031,"y",,,,"aoc"
-"kap","kapo1251","kapon","Kapong",-60.862,6.16277,"y",,,,"ake; pbc"
+"pem","pemo1248","pemon","Pemón",,,"y",,,,"aoc"
+"kap","kapo1251","kapon","Kapong",,,"y",,,,"ake; pbc"
 "wmr","waim1253","waimiri","Waimiri-Atroari",-60.4259,-0.61832,"y","yawaperi; crichana?",,,"atr"
 "mac","macu1259","macushi","Macushi",-60.2209,4.31861,"y",,,,"mbc"
 "wai","waiw1244","waiwai","Waiwai",-59.1417,1.50881,"y",,,,"waw"
@@ -43,7 +44,7 @@
 "bak","baka1277","bakairi","Bakairi",,,"y",,"Two dialects.",,"bkq"
 "hian",,"hiana","Hianakoto-Umawa",-72.0664,1.21894,"n",,,"car",
 "cha","chai1253","chayma","Chayma",-63.1,9.21256,"n",,,"cum",
-"cgt","cuma1240","kumanagoto","Kumanagoto",-63.02,10.21,"n",,,"cum",
+"cum","cuma1240","kumanagoto","Kumanagoto",-63.02,10.21,"n",,,"cum",
 "arin",,"arina","Arinakoto",,,"n",,"From Durbin","pem",
 "salu","salu1254","saluma","Salumá",-56.51,1.75,"n",,,"tri",
 "uruk",,"urukue","Urukuena",-54.35032,2.7984202,"n",,"Girard p. 6","tri",
@@ -63,7 +64,6 @@
 "tam","tama1338","tamanaku","Tamanaku",-65.883,2.765,"n",,,,"tmz"
 "pale",,"palenque","Palenque",-65.49599,8.8387087,"n",,"Girard p. 6",,
 "avar",,"avarikoto","Avarikoto",-63.1,9.21,"n",,"From Girard",,
-"cum","coas1302","kumana","Kumaná",-63.018,10.209,"n",,,,
 "palm","palm1241","palmela","Palmela",-62.8,-13,"n",,,,
 "pxan","paux1236","pauxiana","Pauxiana",-62.52,1.45,"n",,,,
 "tive","tive1236","tiveri","Tiverighotto",-62.51541,10.102185,"n",,,,
@@ -92,3 +92,4 @@
 "PMan","mapo1245","PMan","Proto-Manapiarean",,,"n",,,,
 "PVen","vene1261","PVen","Proto-Venezuelan",,,"n",,,,
 "PCum","coas1302","PCum","Proto-Cumana",,,"n",,,,
+"PYuk","yukp1243","PYuk","Proto-Yukpan",,,"n",,,,
