@@ -140,39 +140,39 @@ class Dataset(BaseDataset):
                 "Description": "Is this languoid a reconstructed proto-language?",
             }
         )
-        args.writer.cldf.add_component(
-            {
-                "url": "dialects.csv",
-                "tableSchema": {
-                    "columns": [
-                        {
-                            "name": "ID",
-                            "required": True,
-                            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                            "datatype": {
-                                "base": "string",
-                                "format": "[a-zA-Z0-9_\\-]+",
-                            },
-                        },
-                        {
-                            "name": "Dialect_ID",
-                            "required": True,
-                            "datatype": {
-                                "base": "string",
-                                "format": "[a-zA-Z0-9_\\-]+",
-                            },
-                        },
-                        {
-                            "name": "Language_ID",
-                            "required": True,
-                            "dc:extent": "singlevalued",
-                            "dc:description": "The language (as opposed to the dialect)",
-                            "datatype": "string",
-                        },
-                    ]
-                },
-            }
-        )
+        # args.writer.cldf.add_component(
+        #     {
+        #         "url": "dialects.csv",
+        #         "tableSchema": {
+        #             "columns": [
+        #                 {
+        #                     "name": "ID",
+        #                     "required": True,
+        #                     "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+        #                     "datatype": {
+        #                         "base": "string",
+        #                         "format": "[a-zA-Z0-9_\\-]+",
+        #                     },
+        #                 },
+        #                 {
+        #                     "name": "Dialect_ID",
+        #                     "required": True,
+        #                     "datatype": {
+        #                         "base": "string",
+        #                         "format": "[a-zA-Z0-9_\\-]+",
+        #                     },
+        #                 },
+        #                 {
+        #                     "name": "Language_ID",
+        #                     "required": True,
+        #                     "dc:extent": "singlevalued",
+        #                     "dc:description": "The language (as opposed to the dialect)",
+        #                     "datatype": "string",
+        #                 },
+        #             ]
+        #         },
+        #     }
+        # )
         args.writer.cldf.add_component("TreeTable")
         args.writer.cldf.add_component("MediaTable")
 
@@ -216,12 +216,12 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_foreign_key(
             "LanguageTable", "Dialect_Of", "LanguageTable", "ID"
         )
-        args.writer.cldf.add_foreign_key(
-            "dialects.csv", "Language_ID", "LanguageTable", "ID"
-        )
-        args.writer.cldf.add_foreign_key(
-            "dialects.csv", "Dialect_ID", "LanguageTable", "ID"
-        )
+        # args.writer.cldf.add_foreign_key(
+        #     "dialects.csv", "Language_ID", "LanguageTable", "ID"
+        # )
+        # args.writer.cldf.add_foreign_key(
+        #     "dialects.csv", "Dialect_ID", "LanguageTable", "ID"
+        # )
         sources = pybtex.database.parse_file("bib/sources.bib", bib_format="bibtex")
         sources = [Source.from_entry(k, e) for k, e in sources.entries.items()]
         args.writer.cldf.add_sources(*sources)
@@ -265,14 +265,14 @@ class Dataset(BaseDataset):
                 )
                 lg_dic["Alternative_Names"] = row["Alternative_Names"].split("; ")
 
-            if row["Dialect_Of"]:
-                args.writer.objects["dialects.csv"].append(
-                    {
-                        "ID": lg_id + "-" + row["Dialect_Of"],
-                        "Dialect_ID": lg_id,
-                        "Language_ID": row["Dialect_Of"],
-                    }
-                )
+            # if row["Dialect_Of"]:
+            #     args.writer.objects["dialects.csv"].append(
+            #         {
+            #             "ID": lg_id + "-" + row["Dialect_Of"],
+            #             "Dialect_ID": lg_id,
+            #             "Language_ID": row["Dialect_Of"],
+            #         }
+            #     )
 
             args.writer.objects["ValueTable"].append(
                 {

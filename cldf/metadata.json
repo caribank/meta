@@ -14,20 +14,20 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-52-ga51aafd",
+            "dc:created": "v0.0.5-53-g98c3001",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5-13-g791c97e680",
+            "dc:created": "v5.0-4-g1c5686ae9a",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.12.2"
         },
         {
             "dc:title": "python-packages",
@@ -283,65 +283,6 @@
                 ]
             },
             "url": "parameters.csv"
-        },
-        {
-            "dc:extent": 34,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
-                        "required": true,
-                        "name": "Dialect_ID"
-                    },
-                    {
-                        "dc:description": "The language (as opposed to the dialect)",
-                        "dc:extent": "singlevalued",
-                        "datatype": "string",
-                        "required": true,
-                        "name": "Language_ID"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Language_ID"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Dialect_ID"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "dialects.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TreeTable",
