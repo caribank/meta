@@ -110,18 +110,18 @@ class Dataset(BaseDataset):
                 "dc:description": "What language is this languoid a dialect of?",
                 "required": False,
             },
-            {
-                "name": "Alive",
-                "datatype": "boolean",
-                "dc:description": "Does this languoid have native speakers?",
-                "required": True,
-            },
-            {
-                "name": "Proto_Language",
-                "datatype": "boolean",
-                "dc:description": "Is this languoid a reconstructed proto-language?",
-                "required": True,
-            },
+            # {
+            #     "name": "Alive",
+            #     "datatype": "boolean",
+            #     "dc:description": "Does this languoid have native speakers?",
+            #     "required": True,
+            # },
+            # {
+            #     "name": "Proto_Language",
+            #     "datatype": "boolean",
+            #     "dc:description": "Is this languoid a reconstructed proto-language?",
+            #     "required": True,
+            # },
         )
         args.writer.cldf.add_foreign_key(
             "LanguageTable", "Dialect_Of", "LanguageTable", "ID"

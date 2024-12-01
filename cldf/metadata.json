@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-53-g98c3001",
+            "dc:created": "v0.0.5-54-g23e5c24",
             "dc:title": "Repository"
         },
         {
@@ -201,32 +201,9 @@
                         "datatype": "string",
                         "required": false,
                         "name": "Dialect_Of"
-                    },
-                    {
-                        "dc:description": "Does this languoid have native speakers?",
-                        "datatype": "boolean",
-                        "required": true,
-                        "name": "Alive"
-                    },
-                    {
-                        "dc:description": "Is this languoid a reconstructed proto-language?",
-                        "datatype": "boolean",
-                        "required": true,
-                        "name": "Proto_Language"
                     }
                 ],
                 "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Dialect_Of"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
                     {
                         "columnReference": [
                             "Dialect_Of"

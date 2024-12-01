@@ -9,7 +9,7 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-sa/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:fmatter/cariban_meta
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:fmatter/cariban_meta/tree/98c3001">git@github.com:fmatter/cariban_meta v0.0.5-53-g98c3001</a></li><li><a href="https://github.com/glottolog/glottolog/tree/1c5686ae9a">Glottolog v5.0-4-g1c5686ae9a</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:fmatter/cariban_meta/tree/23e5c24">git@github.com:fmatter/cariban_meta v0.0.5-54-g23e5c24</a></li><li><a href="https://github.com/glottolog/glottolog/tree/1c5686ae9a">Glottolog v5.0-4-g1c5686ae9a</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.2</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | cariban_meta
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -56,8 +56,6 @@ Name/Property | Datatype | Description
 `Alternative_Names` | list of `string` (separated by `; `) | Other names for this languoid.
 `Shorthand` | `string` | A handy abbreviation for various purposes
 `Dialect_Of` | `string` | What language is this languoid a dialect of?<br>References [languages.csv::ID](#table-languagescsv)
-`Alive` | `boolean` | Does this languoid have native speakers?
-`Proto_Language` | `boolean` | Is this languoid a reconstructed proto-language?
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 
