@@ -86,12 +86,12 @@ class Dataset(BaseDataset):
         args.writer.cldf.remove_columns("LanguageTable", "Macroarea", "ISO639P3code")
         args.writer.cldf.add_columns(
             "LanguageTable",
-            {
-                "name": "IPA",
-                "datatype": "string",
-                "dc:description": "The language name in a phonemic transcription",
-                "required": False,
-            },
+            # {
+            #     "name": "IPA",
+            #     "datatype": "string",
+            #     "dc:description": "The language name in a phonemic transcription",
+            #     "required": False,
+            # },
             {
                 "name": "Alternative_Names",
                 "datatype": "string",

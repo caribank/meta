@@ -13,7 +13,7 @@
     "dcat:accessURL": "git@github.com:fmatter/cariban_meta",
     "prov:wasDerivedFrom": [
         {
-            "dc:created": "v0.0.5-56-gf18cd72",
+            "dc:created": "v0.0.5-57-gbb5b049",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity"
@@ -177,12 +177,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
                         "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}"
-                    },
-                    {
-                        "datatype": "string",
-                        "dc:description": "The language name in a phonemic transcription",
-                        "name": "IPA",
-                        "required": false
                     },
                     {
                         "datatype": "string",
