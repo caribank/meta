@@ -13,7 +13,7 @@
     "dcat:accessURL": "git@github.com:fmatter/cariban_meta",
     "prov:wasDerivedFrom": [
         {
-            "dc:created": "v0.0.5-58-g157a59d",
+            "dc:created": "v0.0.5-59-ga518d1d",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity"
@@ -35,7 +35,7 @@
             "dc:title": "python-packages"
         }
     ],
-    "rdf:ID": "cariban_meta",
+    "rdf:ID": "cariban-meta",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
@@ -218,7 +218,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:extent": 2,
             "tableSchema": {
                 "columns": [
@@ -244,9 +244,24 @@
                         "required": false
                     },
                     {
-                        "datatype": "json",
-                        "name": "ColumnSpec",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "name": "Media_Type",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "name": "Download_URL",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Path_In_Zip",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
                         "required": false
                     }
                 ],
@@ -254,7 +269,7 @@
                     "ID"
                 ]
             },
-            "url": "parameters.csv"
+            "url": "media.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TreeTable",
@@ -344,7 +359,7 @@
             "url": "trees.csv"
         },
         {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
             "dc:extent": 2,
             "tableSchema": {
                 "columns": [
@@ -370,24 +385,9 @@
                         "required": false
                     },
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[^/]+/.+"
-                        },
-                        "name": "Media_Type",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
-                        "required": true
-                    },
-                    {
-                        "datatype": "anyURI",
-                        "name": "Download_URL",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
-                        "required": false
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Path_In_Zip",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "datatype": "json",
+                        "name": "ColumnSpec",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
                         "required": false
                     }
                 ],
@@ -395,7 +395,7 @@
                     "ID"
                 ]
             },
-            "url": "media.csv"
+            "url": "parameters.csv"
         }
     ]
 }
