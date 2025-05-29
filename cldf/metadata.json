@@ -6,15 +6,16 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:description": "This dataset contains the names and locations for Cariban languages. It also contains information about the vitality and the proto-status of a language, as well as a tree and a source file.",
     "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "Names and locations for Cariban languages",
+    "dc:title": "Cariban language metadata",
     "dcat:accessURL": "git@github.com:fmatter/cariban_meta",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.0.5-54-g23e5c24",
+            "dc:created": "v0.0.5-55-gda5672b",
             "dc:title": "Repository"
         },
         {
@@ -204,6 +205,17 @@
                     }
                 ],
                 "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Dialect_Of"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
                     {
                         "columnReference": [
                             "Dialect_Of"

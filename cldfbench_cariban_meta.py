@@ -47,6 +47,7 @@ class Dataset(BaseDataset):
             "raw/cariban_language_list.csv",
             dtype={"Latitude": "float", "Longitude": "float"},
         )
+        lgs = lgs.sort_values(by="Dialect_Of", ascending=False, na_position="first")
         lgs = lgs.fillna("")
 
         def get_lg(lgid):
@@ -222,10 +223,9 @@ class Dataset(BaseDataset):
         # args.writer.cldf.add_foreign_key(
         #     "dialects.csv", "Dialect_ID", "LanguageTable", "ID"
         # )
-        sources = pybtex.database.parse_file("bib/sources.bib", bib_format="bibtex")
+        sources = pybtex.database.parse_file("bibliography.bib", bib_format="bibtex")
         sources = [Source.from_entry(k, e) for k, e in sources.entries.items()]
         args.writer.cldf.add_sources(*sources)
-
         bool_dict = {"y": True, "n": False}
         for i, row in lgs.iterrows():
             lg_id = row["ID"]

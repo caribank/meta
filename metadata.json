@@ -1,7 +1,7 @@
 {
     "id": "cariban_meta",
-    "title": "Names and locations for Cariban languages",
-    "description": null,
+    "title": "Cariban language metadata",
+    "description": "This dataset contains the names and locations for Cariban languages. It also contains information about the vitality and the proto-status of a language, as well as a tree and a source file.",
     "license": "CC-BY-SA-4.0",
     "url": null,
     "citation": null

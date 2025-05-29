@@ -1,24 +1,5 @@
 ID,Name,Latitude,Longitude,Glottocode,IPA,Alternative_Names,Shorthand,Dialect_Of
-wbak,Western Bakairi,-14.163292,-55.463912,,,,wbakairi,bak
-ebak,Eastern Bakairi,-14.301823,-54.625822,,,,ebakairi,bak
-ing,Ingarikó,6.16277,-60.862,inga1250,,,ingariko,kap
-aka,Akawaio,6.16,-60.86,akaw1239,,,akawaio,kap
-pat,Patamona,4.76,-59.58,pata1262,,,patamona,kap
-tab,Tabajari,9.084793,-64.317835,taba1267,,Venezuelan Carib,tabajari,kar
-gkar,Guianese Carib,7.059752,-60.239822,,,,gkar,kar
-aty,Aretyry,5.341971,-56.353558,mura1272,,Western Surinamese Carib; Murato,aretyry,kar
-tyr,Tyrewuju,5.707015,-54.014828,tyre1237,,Eastern Surinamese Carib,tyrewuju,kar
-siku,Sikiana,3.01,-57.92,siki1239,,Shikuyana; Sikiana,sikiana,kax
-dek,De’kwana,,,,,,dekwana,mak
-dhe,Dhe’kwana,,,,,,dhekwana,mak
-kam,Kamarakoto,5.6014065,-62.71231,cama1252,,,kamara,pem
-yek,Ye'kwana (dialect),4.71,-64.39,,,,yekwana,mak
-tau,Taulipang,4.97031,-62.0,taul1252,,,tauli,pem
-are,Arekuna,5.0,-61.4033,arec1238,,,arekuna,pem
-nah,Nahukwa,-12.103217,-53.294949,nahu1343,,,nahukwa,uxc
-kui,Kuikuro,-12.351506,-53.209209,,,,kuikuro,uxc
-mat,Matipu,-12.23117,-53.186218,nucl1657,,,matipu,uxc
-kal,Kalapalo,-12.598618,-52.923844,,,,kalapalo,uxc
+bak,Bakairi,-14.2628,-54.7034,baka1277,,,bakairi,
 yuk,Yukpa,9.67534,-73.0557,yukp1241,,,yukpa,
 jap,Japreria,10.5523,-72.7101,japr1238,,,japreria,
 car,Karijona,1.21894,-72.0664,cari1279,,,carijo,
@@ -41,21 +22,6 @@ ikp,Ikpeng,-11.37822,-53.49553,ikpe1245,,Txikão,ikpeng,
 ara,Arara,-3.71263,-53.0657,para1310,,,arara,
 kar,Kari'ña,5.83772,-56.8323,gali1262,,Galibi,kalina,
 uxc,Upper Xingu Carib,,,nucl1656,,,uxc,
-bak,Bakairi,-14.2628,-54.7034,baka1277,,,bakairi,
-hian,†Hianakoto-Umawa,1.21894,-72.0664,,,,hiana,car
-cha,†Chayma,9.21256,-63.1,chai1253,,,chayma,cum
-cum,†Kumanagoto,10.21,-63.02,cuma1240,,,kumanagoto,cum
-arin,†Arinakoto,,,,,,arina,pem
-salu,†Salumá,1.75,-56.51,salu1254,,,saluma,tri
-uruk,†Urukuena,2.7984202,-54.35032,,,,urukue,tri
-waya,†Wayakulé,3.2176412,-53.40764,,,Triometesem,wayakule,tri
-pian,†Pianakoto,,,,,,pianakoto,tri
-kuma,†Kumayena,,,,,,kumayena,tri
-paru,†Parukoto,1.2913186,-56.69205,,,,parukoto,wai
-jawa,†Jawaperi,-0.61832,-60.4259,jawa1240,,,yawaperi,wmr
-mcta,†Macoita,9.67534,-73.0557,,,,macoita,yuk
-maco,†Macoa,9.67534,-73.0557,,,,macoa,yuk
-chak,†Chake,9.67534,-73.0557,,,,chake,yuk
 koya,†Koyaima,9.0,-76.0,,,,koyaima,
 opon,†Opón-Carare,6.6993472,-73.62266,opon1234,,,opon,
 guak,†Guake,1.0,-72.08,,,,guake,
@@ -93,3 +59,37 @@ PMan,Proto-Manapiarean,,,mapo1245,,,PMan,
 PVen,Proto-Venezuelan,,,vene1261,,,PVen,
 PCum,Proto-Cumana,,,coas1302,,,PCum,
 PYuk,Proto-Yukpan,,,yukp1243,,,PYuk,
+chak,†Chake,9.67534,-73.0557,,,,chake,yuk
+maco,†Macoa,9.67534,-73.0557,,,,macoa,yuk
+mcta,†Macoita,9.67534,-73.0557,,,,macoita,yuk
+jawa,†Jawaperi,-0.61832,-60.4259,jawa1240,,,yawaperi,wmr
+paru,†Parukoto,1.2913186,-56.69205,,,,parukoto,wai
+nah,Nahukwa,-12.103217,-53.294949,nahu1343,,,nahukwa,uxc
+kal,Kalapalo,-12.598618,-52.923844,,,,kalapalo,uxc
+mat,Matipu,-12.23117,-53.186218,nucl1657,,,matipu,uxc
+kui,Kuikuro,-12.351506,-53.209209,,,,kuikuro,uxc
+kuma,†Kumayena,,,,,,kumayena,tri
+pian,†Pianakoto,,,,,,pianakoto,tri
+waya,†Wayakulé,3.2176412,-53.40764,,,Triometesem,wayakule,tri
+uruk,†Urukuena,2.7984202,-54.35032,,,,urukue,tri
+salu,†Salumá,1.75,-56.51,salu1254,,,saluma,tri
+kam,Kamarakoto,5.6014065,-62.71231,cama1252,,,kamara,pem
+tau,Taulipang,4.97031,-62.0,taul1252,,,tauli,pem
+are,Arekuna,5.0,-61.4033,arec1238,,,arekuna,pem
+arin,†Arinakoto,,,,,,arina,pem
+dek,De’kwana,,,,,,dekwana,mak
+dhe,Dhe’kwana,,,,,,dhekwana,mak
+yek,Ye'kwana (dialect),4.71,-64.39,,,,yekwana,mak
+siku,Sikiana,3.01,-57.92,siki1239,,Shikuyana; Sikiana,sikiana,kax
+tab,Tabajari,9.084793,-64.317835,taba1267,,Venezuelan Carib,tabajari,kar
+aty,Aretyry,5.341971,-56.353558,mura1272,,Western Surinamese Carib; Murato,aretyry,kar
+tyr,Tyrewuju,5.707015,-54.014828,tyre1237,,Eastern Surinamese Carib,tyrewuju,kar
+gkar,Guianese Carib,7.059752,-60.239822,,,,gkar,kar
+pat,Patamona,4.76,-59.58,pata1262,,,patamona,kap
+aka,Akawaio,6.16,-60.86,akaw1239,,,akawaio,kap
+ing,Ingarikó,6.16277,-60.862,inga1250,,,ingariko,kap
+cha,†Chayma,9.21256,-63.1,chai1253,,,chayma,cum
+cum,†Kumanagoto,10.21,-63.02,cuma1240,,,kumanagoto,cum
+hian,†Hianakoto-Umawa,1.21894,-72.0664,,,,hiana,car
+ebak,Eastern Bakairi,-14.301823,-54.625822,,,,ebakairi,bak
+wbak,Western Bakairi,-14.163292,-55.463912,,,,wbakairi,bak
