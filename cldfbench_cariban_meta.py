@@ -124,9 +124,9 @@ class Dataset(BaseDataset):
             #     "required": True,
             # },
         )
-        args.writer.cldf.add_foreign_key(
-            "LanguageTable", "Dialect_Of", "LanguageTable", "ID"
-        )
+        # args.writer.cldf.add_foreign_key(
+        #     "LanguageTable", "Dialect_Of", "LanguageTable", "ID"
+        # )
         args.writer.objects["ParameterTable"].append(
             {
                 "Name": "Alive",

@@ -13,7 +13,7 @@
     "dcat:accessURL": "git@github.com:fmatter/cariban_meta",
     "prov:wasDerivedFrom": [
         {
-            "dc:created": "v0.0.5-57-gbb5b049",
+            "dc:created": "v0.0.5-58-g157a59d",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:fmatter/cariban_meta",
             "rdf:type": "prov:Entity"
@@ -199,17 +199,6 @@
                     }
                 ],
                 "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Dialect_Of"
-                        ],
-                        "reference": {
-                            "columnReference": [
-                                "ID"
-                            ],
-                            "resource": "languages.csv"
-                        }
-                    },
                     {
                         "columnReference": [
                             "Dialect_Of"
